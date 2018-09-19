@@ -272,8 +272,546 @@ http://vapi.vaders.tv/play/2670.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvc
 http://vapi.vaders.tv/play/2752.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Treehouse_TV_2013.png" group-title="Canada",Treehouse TV
 http://vapi.vaders.tv/play/2766.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-
-
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1865.png" group-title="USA",American Heroes Channel HD
+http://vapi.vaders.tv/play/74790.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1,ALFA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/299.ts
+#EXTINF:-1,ANIMAL PLANET
+http://190.2.142.13:25461/live/primera_android/1122334455/331.ts
+#EXTINF:-1,ARENA SPORT 1
+http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
+#EXTINF:-1,ARENA SPORT 1 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/319.ts
+#EXTINF:-1,ARENA SPORT 2
+http://190.2.142.13:25461/live/primera_android/1122334455/310.ts
+#EXTINF:-1,ARENA SPORT 2 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/318.ts
+#EXTINF:-1,ARENA SPORT 3
+http://190.2.142.13:25461/live/primera_android/1122334455/309.ts
+#EXTINF:-1,ARENA SPORT 3 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/317.ts
+#EXTINF:-1,ARENA SPORT 4
+http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
+#EXTINF:-1,ARENA SPORT 4 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/316.ts
+#EXTINF:-1,ARENA SPORT 5 HD HR
+http://190.2.142.13:25461/live/primera_android/1122334455/315.ts
+#EXTINF:-1,ARTV Aab
+http://190.2.142.13:25461/live/primera_android/1122334455/92.ts
+#EXTINF:-1,AURORA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/266.ts
+#EXTINF:-1,BN MUSIC
+http://190.2.142.13:25461/live/primera_android/1122334455/277.ts
+#EXTINF:-1,BOOMERANG
+http://190.2.142.13:25461/live/primera_android/1122334455/282.ts
+#EXTINF:-1,CBS REALITY
+http://190.2.142.13:25461/live/primera_android/1122334455/360.ts
+#EXTINF:-1,CGTN DOC
+http://190.2.142.13:25461/live/primera_android/1122334455/383.ts
+#EXTINF:-1,CHASSE ET PECHE
+http://190.2.142.13:25461/live/primera_android/1122334455/236.ts
+#EXTINF:-1,CINEMAX 2
+http://190.2.142.13:25461/live/primera_android/1122334455/342.ts
+#EXTINF:-1,CINESTAR
+http://190.2.142.13:25461/live/primera_android/1122334455/363.ts
+#EXTINF:-1,CINESTAR ACTION
+http://190.2.142.13:25461/live/primera_android/1122334455/362.ts
+#EXTINF:-1,CMC
+http://190.2.142.13:25461/live/primera_android/1122334455/270.ts
+#EXTINF:-1,CNN
+http://190.2.142.13:25461/live/primera_android/1122334455/382.ts
+#EXTINF:-1,DISCOVERY
+http://190.2.142.13:25461/live/primera_android/1122334455/325.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://190.2.142.13:25461/live/primera_android/1122334455/381.ts
+#EXTINF:-1,DIVA
+http://190.2.142.13:25461/live/primera_android/1122334455/361.ts
+#EXTINF:-1,DOMA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/374.ts
+#EXTINF:-1,EUROSPORT 1
+http://190.2.142.13:25461/live/primera_android/1122334455/307.ts
+#EXTINF:-1,EUROSPORT 2
+http://190.2.142.13:25461/live/primera_android/1122334455/306.ts
+#EXTINF:-1,Face TV 2
+http://190.2.142.13:25461/live/primera_android/1122334455/36.ts
+#EXTINF:-1,FLOW RADIO SPAIN
+http://190.2.142.13:25461/live/primera_android/1122334455/165.ts
+#EXTINF:-1,FOX LIFE
+http://190.2.142.13:25461/live/primera_android/1122334455/369.ts
+#EXTINF:-1,FOX MOVIES
+http://190.2.142.13:25461/live/primera_android/1122334455/367.ts
+#EXTINF:-1,FRANCE 24
+http://190.2.142.13:25461/live/primera_android/1122334455/379.ts
+#EXTINF:-1,FTV
+http://190.2.142.13:25461/live/primera_android/1122334455/124.ts
+#EXTINF:-1,GLAS DRINE
+http://190.2.142.13:25461/live/primera_android/1122334455/301.ts
+#EXTINF:-1,H2
+http://190.2.142.13:25461/live/primera_android/1122334455/323.ts
+#EXTINF:-1,HAPPY
+http://190.2.142.13:25461/live/primera_android/1122334455/140.ts
+#EXTINF:-1,HAYAT
+http://190.2.142.13:25461/live/primera_android/1122334455/288.ts
+#EXTINF:-1,HAYAT FOLK
+http://190.2.142.13:25461/live/primera_android/1122334455/286.ts
+#EXTINF:-1,HAYAT MUSIC
+http://190.2.142.13:25461/live/primera_android/1122334455/287.ts
+#EXTINF:-1,Hayat Plus
+http://190.2.142.13:25461/live/primera_android/1122334455/139.ts
+#EXTINF:-1,HAYATOVCI
+http://190.2.142.13:25461/live/primera_android/1122334455/285.ts
+#EXTINF:-1,HBO
+http://190.2.142.13:25461/live/primera_android/1122334455/366.ts
+#EXTINF:-1,HBO 2
+http://190.2.142.13:25461/live/primera_android/1122334455/365.ts
+#EXTINF:-1,HBO 3
+http://190.2.142.13:25461/live/primera_android/1122334455/364.ts
+#EXTINF:-1,HISPAHITS FM
+http://190.2.142.13:25461/live/primera_android/1122334455/153.ts
+#EXTINF:-1,HISTORY CHANNEL
+http://190.2.142.13:25461/live/primera_android/1122334455/324.ts
+#EXTINF:-1,HOUSE RADIO ESPAÑA
+http://190.2.142.13:25461/live/primera_android/1122334455/152.ts
+#EXTINF:-1,HRT 5
+http://190.2.142.13:25461/live/primera_android/1122334455/212.ts
+#EXTINF:-1,HRT1
+http://190.2.142.13:25461/live/primera_android/1122334455/339.ts
+#EXTINF:-1,HRT2
+http://190.2.142.13:25461/live/primera_android/1122334455/338.ts
+#EXTINF:-1,HRT3
+http://190.2.142.13:25461/live/primera_android/1122334455/337.ts
+#EXTINF:-1,HRT4
+http://190.2.142.13:25461/live/primera_android/1122334455/336.ts
+#EXTINF:-1,KABEL EINS
+http://190.2.142.13:25461/live/primera_android/1122334455/378.ts
+#EXTINF:-1,KANAL 25
+http://190.2.142.13:25461/live/primera_android/1122334455/264.ts
+#EXTINF:-1,LIFE AND HOLIDAY
+http://190.2.142.13:25461/live/primera_android/1122334455/272.ts
+#EXTINF:-1,M1 FILM
+http://190.2.142.13:25461/live/primera_android/1122334455/368.ts
+#EXTINF:-1,MINIMAX
+http://190.2.142.13:25461/live/primera_android/1122334455/280.ts
+#EXTINF:-1,MRT1
+http://190.2.142.13:25461/live/primera_android/1122334455/130.ts
+#EXTINF:-1,MRT2
+http://190.2.142.13:25461/live/primera_android/1122334455/131.ts
+#EXTINF:-1,MTV IGMAN
+http://190.2.142.13:25461/live/primera_android/1122334455/298.ts
+#EXTINF:-1,N1 HD BIH
+http://190.2.142.13:25461/live/primera_android/1122334455/372.ts
+#EXTINF:-1,N24
+http://190.2.142.13:25461/live/primera_android/1122334455/238.ts
+#EXTINF:-1,NAT GEO WILD
+http://190.2.142.13:25461/live/primera_android/1122334455/234.ts
+#EXTINF:-1,NATIONAL GEOGRAPHICS
+http://190.2.142.13:25461/live/primera_android/1122334455/322.ts
+#EXTINF:-1,NEON
+http://190.2.142.13:25461/live/primera_android/1122334455/300.ts
+#EXTINF:-1,NICK JUNIOR
+http://190.2.142.13:25461/live/primera_android/1122334455/281.ts
+#EXTINF:-1,NOSTALGIA FM  ESPAÑA
+http://190.2.142.13:25461/live/primera_android/1122334455/155.ts
+#EXTINF:-1,NOVA 24
+http://190.2.142.13:25461/live/primera_android/1122334455/208.ts
+#EXTINF:-1,NOVA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/373.ts
+#EXTINF:-1,OBN SAT
+http://190.2.142.13:25461/live/primera_android/1122334455/137.ts
+#EXTINF:-1,OTV ETNO
+http://190.2.142.13:25461/live/primera_android/1122334455/332.ts
+#EXTINF:-1,OTV FOLK
+http://190.2.142.13:25461/live/primera_android/1122334455/333.ts
+#EXTINF:-1,PINK ACTION
+http://190.2.142.13:25461/live/primera_android/1122334455/356.ts
+#EXTINF:-1,PINK BH
+http://190.2.142.13:25461/live/primera_android/1122334455/138.ts
+#EXTINF:-1,PINK COMEDY
+http://190.2.142.13:25461/live/primera_android/1122334455/344.ts
+#EXTINF:-1,PINK FAMILY
+http://190.2.142.13:25461/live/primera_android/1122334455/353.ts
+#EXTINF:-1,PINK FILM
+http://190.2.142.13:25461/live/primera_android/1122334455/357.ts
+#EXTINF:-1,PINK KIDS
+http://190.2.142.13:25461/live/primera_android/1122334455/355.ts
+#EXTINF:-1,PINK KUHAR
+http://190.2.142.13:25461/live/primera_android/1122334455/345.ts
+#EXTINF:-1,PINK MOVIES
+http://190.2.142.13:25461/live/primera_android/1122334455/354.ts
+#EXTINF:-1,PINK PEDIA
+http://190.2.142.13:25461/live/primera_android/1122334455/352.ts
+#EXTINF:-1,PINK PREMIUM
+http://190.2.142.13:25461/live/primera_android/1122334455/359.ts
+#EXTINF:-1,PINK REALITY
+http://190.2.142.13:25461/live/primera_android/1122334455/347.ts
+#EXTINF:-1,PINK SCI FI FANTASY
+http://190.2.142.13:25461/live/primera_android/1122334455/343.ts
+#EXTINF:-1,PINK SERIJE
+http://190.2.142.13:25461/live/primera_android/1122334455/351.ts
+#EXTINF:-1,PINK THRILLER
+http://190.2.142.13:25461/live/primera_android/1122334455/349.ts
+#EXTINF:-1,PINK WESTERN
+http://190.2.142.13:25461/live/primera_android/1122334455/350.ts
+#EXTINF:-1,PINK WORLD CINEMA
+http://190.2.142.13:25461/live/primera_android/1122334455/346.ts
+#EXTINF:-1,PINK ZABAVA
+http://190.2.142.13:25461/live/primera_android/1122334455/348.ts
+#EXTINF:-1,POSAVINA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/377.ts
+#EXTINF:-1,PROSIEBEN
+http://190.2.142.13:25461/live/primera_android/1122334455/239.ts
+#EXTINF:-1,PRVA RS
+http://190.2.142.13:25461/live/primera_android/1122334455/291.ts
+#EXTINF:-1,RADIO BLETA TETOVË
+http://190.2.142.13:25461/live/primera_android/1122334455/164.ts
+#EXTINF:-1,RADIO DESHIRA BELGJIKE
+http://190.2.142.13:25461/live/primera_android/1122334455/157.ts
+#EXTINF:-1,RADIO GOZADERA
+http://190.2.142.13:25461/live/primera_android/1122334455/154.ts
+#EXTINF:-1,RADIO POSITIVA
+http://190.2.142.13:25461/live/primera_android/1122334455/160.ts
+#EXTINF:-1,RADIO SEHARA SARAJEVO
+http://190.2.142.13:25461/live/primera_android/1122334455/156.ts
+#EXTINF:-1,RTL
+http://190.2.142.13:25461/live/primera_android/1122334455/389.ts
+#EXTINF:-1,RTL KOCKICA
+http://190.2.142.13:25461/live/primera_android/1122334455/385.ts
+#EXTINF:-1,RTL LIVING
+http://190.2.142.13:25461/live/primera_android/1122334455/386.ts
+#EXTINF:-1,RTL MAH
+http://190.2.142.13:25461/live/primera_android/1122334455/388.ts
+#EXTINF:-1,RTL2
+http://190.2.142.13:25461/live/primera_android/1122334455/387.ts
+#EXTINF:-1,RTRS PLUS
+http://190.2.142.13:25461/live/primera_android/1122334455/294.ts
+#EXTINF:-1,RTS SAT
+http://190.2.142.13:25461/live/primera_android/1122334455/211.ts
+#EXTINF:-1,RTV BN
+http://190.2.142.13:25461/live/primera_android/1122334455/278.ts
+#EXTINF:-1,SAT 1
+http://190.2.142.13:25461/live/primera_android/1122334455/375.ts
+#EXTINF:-1,SNTV RS
+http://190.2.142.13:25461/live/primera_android/1122334455/295.ts
+#EXTINF:-1,SPORT KLUB 1
+http://190.2.142.13:25461/live/primera_android/1122334455/314.ts
+#EXTINF:-1,SPORT KLUB 2
+http://190.2.142.13:25461/live/primera_android/1122334455/313.ts
+#EXTINF:-1,SPORT KLUB 3
+http://190.2.142.13:25461/live/primera_android/1122334455/312.ts
+#EXTINF:-1,TLC
+http://190.2.142.13:25461/live/primera_android/1122334455/327.ts
+#EXTINF:-1,TRAVEL
+http://190.2.142.13:25461/live/primera_android/1122334455/329.ts
+#EXTINF:-1,TV DELTA
+http://190.2.142.13:25461/live/primera_android/1122334455/262.ts
+#EXTINF:-1,TV1
+http://190.2.142.13:25461/live/primera_android/1122334455/398.ts
+#EXTINF:-1,VIASAT HISTORY
+http://190.2.142.13:25461/live/primera_android/1122334455/328.ts
+#EXTINF:-1,VIASAT NATURE
+http://190.2.142.13:25461/live/primera_android/1122334455/326.ts
+#EXTINF:-1,Z1
+http://190.2.142.13:25461/live/primera_android/1122334455/341.ts
+#EXTINF:-1,Television 11 Espana
+http://190.2.142.13:25461/live/primera_android/1122334455/37.ts
+#EXTINF:-1,TV A Mol
+http://190.2.142.13:25461/live/primera_android/1122334455/76.ts
+#EXTINF:-1,A1 Balkan
+http://190.2.142.13:25461/live/primera_android/1122334455/1.ts
+#EXTINF:-1,A1 Bosnia
+http://190.2.142.13:25461/live/primera_android/1122334455/7.ts
+#EXTINF:-1,A1 Cinema
+http://190.2.142.13:25461/live/primera_android/1122334455/71.ts
+#EXTINF:-1,A1 Espana
+http://190.2.142.13:25461/live/primera_android/1122334455/2.ts
+#EXTINF:-1,A1 Exclusive
+http://190.2.142.13:25461/live/primera_android/1122334455/4.ts
+#EXTINF:-1,A1 HD TV
+http://190.2.142.13:25461/live/primera_android/1122334455/15.ts
+#EXTINF:-1,A1 Islam
+http://190.2.142.13:25461/live/primera_android/1122334455/6.ts
+#EXTINF:-1,A1 Kids
+http://190.2.142.13:25461/live/primera_android/1122334455/72.ts
+#EXTINF:-1,A1 Montenegro
+http://190.2.142.13:25461/live/primera_android/1122334455/120.ts
+#EXTINF:-1,A1 Music HD
+http://190.2.142.13:25461/live/primera_android/1122334455/121.ts
+#EXTINF:-1,A1 Shqiptare
+http://190.2.142.13:25461/live/primera_android/1122334455/5.ts
+#EXTINF:-1,A1 Sport
+http://190.2.142.13:25461/live/primera_android/1122334455/9.ts
+#EXTINF:-1,A1 Srbija
+http://190.2.142.13:25461/live/primera_android/1122334455/91.ts
+#EXTINF:-1,A1 World
+http://190.2.142.13:25461/live/primera_android/1122334455/3.ts
+#EXTINF:-1,Al Alam
+http://190.2.142.13:25461/live/primera_android/1122334455/106.ts
+#EXTINF:-1,Al Jazeera Balkans
+http://190.2.142.13:25461/live/primera_android/1122334455/17.ts
+#EXTINF:-1,Al Jazeera International
+http://190.2.142.13:25461/live/primera_android/1122334455/30.ts
+#EXTINF:-1,Al Jazeera Mubasher
+http://190.2.142.13:25461/live/primera_android/1122334455/29.ts
+#EXTINF:-1,ATV
+http://190.2.142.13:25461/live/primera_android/1122334455/268.ts
+#EXTINF:-1,B92 INFO
+http://190.2.142.13:25461/live/primera_android/1122334455/293.ts
+#EXTINF:-1,BALKAN EROTIC
+http://190.2.142.13:25461/live/primera_android/1122334455/231.ts
+#EXTINF:-1,BHT1 HD
+http://190.2.142.13:25461/live/primera_android/1122334455/123.ts
+#EXTINF:-1,BHT1 SD
+http://190.2.142.13:25461/live/primera_android/1122334455/133.ts
+#EXTINF:-1,BNV TV Sandzak
+http://190.2.142.13:25461/live/primera_android/1122334455/26.ts
+#EXTINF:-1,CITY TV
+http://190.2.142.13:25461/live/primera_android/1122334455/393.ts
+#EXTINF:-1,DM Sat
+http://190.2.142.13:25461/live/primera_android/1122334455/74.ts
+#EXTINF:-1,Dreamporn
+http://190.2.142.13:25461/live/primera_android/1122334455/66.ts
+#EXTINF:-1,Duga TV
+http://190.2.142.13:25461/live/primera_android/1122334455/95.ts
+#EXTINF:-1,DW
+http://190.2.142.13:25461/live/primera_android/1122334455/380.ts
+#EXTINF:-1,Face TV
+http://190.2.142.13:25461/live/primera_android/1122334455/16.ts
+#EXTINF:-1,fibwi Live
+http://190.2.142.13:25461/live/primera_android/1122334455/118.ts
+#EXTINF:-1,IFilm
+http://190.2.142.13:25461/live/primera_android/1122334455/105.ts
+#EXTINF:-1,IFilm Balkan
+http://190.2.142.13:25461/live/primera_android/1122334455/122.ts
+#EXTINF:-1,IML TV
+http://190.2.142.13:25461/live/primera_android/1122334455/49.ts
+#EXTINF:-1,imlNasheed TV
+http://190.2.142.13:25461/live/primera_android/1122334455/116.ts
+#EXTINF:-1,Islam Montenegro
+http://190.2.142.13:25461/live/primera_android/1122334455/27.ts
+#EXTINF:-1,IZVORNA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/302.ts
+#EXTINF:-1,K3 TV
+http://190.2.142.13:25461/live/primera_android/1122334455/103.ts
+#EXTINF:-1,KCN MUSIC 2
+http://190.2.142.13:25461/live/primera_android/1122334455/296.ts
+#EXTINF:-1,LAUDATO TV
+http://190.2.142.13:25461/live/primera_android/1122334455/216.ts
+#EXTINF:-1,Life TV Espana
+http://190.2.142.13:25461/live/primera_android/1122334455/20.ts
+#EXTINF:-1,Love World Euro TV
+http://190.2.142.13:25461/live/primera_android/1122334455/75.ts
+#EXTINF:-1,Mar TV Catalonia
+http://190.2.142.13:25461/live/primera_android/1122334455/18.ts
+#EXTINF:-1,Media TV
+http://190.2.142.13:25461/live/primera_android/1122334455/8.ts
+#EXTINF:-1,Meka TV
+http://190.2.142.13:25461/live/primera_android/1122334455/98.ts
+#EXTINF:-1,MirTV Europa HD
+http://190.2.142.13:25461/live/primera_android/1122334455/10.ts
+#EXTINF:-1,Moje Bugojno
+http://190.2.142.13:25461/live/primera_android/1122334455/57.ts
+#EXTINF:-1,MonteLux TV
+http://190.2.142.13:25461/live/primera_android/1122334455/73.ts
+#EXTINF:-1,NOVOSADSKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/284.ts
+#EXTINF:-1,NTV 101 Prijedor
+http://190.2.142.13:25461/live/primera_android/1122334455/68.ts
+#EXTINF:-1,NTV Amna
+http://190.2.142.13:25461/live/primera_android/1122334455/101.ts
+#EXTINF:-1,NTV JATA
+http://190.2.142.13:25461/live/primera_android/1122334455/303.ts
+#EXTINF:-1,OSJECKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/340.ts
+#EXTINF:-1,OTV Valentinovo
+http://190.2.142.13:25461/live/primera_android/1122334455/93.ts
+#EXTINF:-1,Plus HD TV
+http://190.2.142.13:25461/live/primera_android/1122334455/100.ts
+#EXTINF:-1,Plus TV
+http://190.2.142.13:25461/live/primera_android/1122334455/61.ts
+#EXTINF:-1,Red TV Spain
+http://190.2.142.13:25461/live/primera_android/1122334455/110.ts
+#EXTINF:-1,Roma TV
+http://190.2.142.13:25461/live/primera_android/1122334455/88.ts
+#EXTINF:-1,RROKUM TV
+http://190.2.142.13:25461/live/primera_android/1122334455/81.ts
+#EXTINF:-1,RT Dershira
+http://190.2.142.13:25461/live/primera_android/1122334455/111.ts
+#EXTINF:-1,RTCG1
+http://190.2.142.13:25461/live/primera_android/1122334455/125.ts
+#EXTINF:-1,RTCG2
+http://190.2.142.13:25461/live/primera_android/1122334455/126.ts
+#EXTINF:-1,RTCGsat
+http://190.2.142.13:25461/live/primera_android/1122334455/127.ts
+#EXTINF:-1,RTIliria
+http://190.2.142.13:25461/live/primera_android/1122334455/109.ts
+#EXTINF:-1,RTK1
+http://190.2.142.13:25461/live/primera_android/1122334455/132.ts
+#EXTINF:-1,RTRS
+http://190.2.142.13:25461/live/primera_android/1122334455/46.ts
+#EXTINF:-1,RTS1
+http://190.2.142.13:25461/live/primera_android/1122334455/128.ts
+#EXTINF:-1,RTS2
+http://190.2.142.13:25461/live/primera_android/1122334455/129.ts
+#EXTINF:-1,RTV  Islam
+http://190.2.142.13:25461/live/primera_android/1122334455/97.ts
+#EXTINF:-1,RTV 7 TUZLA
+http://190.2.142.13:25461/live/primera_android/1122334455/82.ts
+#EXTINF:-1,RTV CAZIN
+http://190.2.142.13:25461/live/primera_android/1122334455/78.ts
+#EXTINF:-1,RTV HIT
+http://190.2.142.13:25461/live/primera_android/1122334455/275.ts
+#EXTINF:-1,RTV Ilirja Gjeneve
+http://190.2.142.13:25461/live/primera_android/1122334455/67.ts
+#EXTINF:-1,RTV KISS
+http://190.2.142.13:25461/live/primera_android/1122334455/335.ts
+#EXTINF:-1,RTV Mostar
+http://190.2.142.13:25461/live/primera_android/1122334455/53.ts
+#EXTINF:-1,RTV Novi Pazar
+http://190.2.142.13:25461/live/primera_android/1122334455/24.ts
+#EXTINF:-1,RTV Slon
+http://190.2.142.13:25461/live/primera_android/1122334455/102.ts
+#EXTINF:-1,RTV USK
+http://190.2.142.13:25461/live/primera_android/1122334455/13.ts
+#EXTINF:-1,RTV Vojvodina 1
+http://190.2.142.13:25461/live/primera_android/1122334455/51.ts
+#EXTINF:-1,RTV Vojvodina 2
+http://190.2.142.13:25461/live/primera_android/1122334455/52.ts
+#EXTINF:-1,Russia Today
+http://190.2.142.13:25461/live/primera_android/1122334455/113.ts
+#EXTINF:-1,Russia Today Arabic
+http://190.2.142.13:25461/live/primera_android/1122334455/114.ts
+#EXTINF:-1,Russia Today Doc
+http://190.2.142.13:25461/live/primera_android/1122334455/115.ts
+#EXTINF:-1,Sahar Azeri
+http://190.2.142.13:25461/live/primera_android/1122334455/107.ts
+#EXTINF:-1,Sahar TV Balkan
+http://190.2.142.13:25461/live/primera_android/1122334455/41.ts
+#EXTINF:-1,SamaraGis Russia
+http://190.2.142.13:25461/live/primera_android/1122334455/22.ts
+#EXTINF:-1,Sandzacka RTV Mreza
+http://190.2.142.13:25461/live/primera_android/1122334455/70.ts
+#EXTINF:-1,Sandzacka Televizija
+http://190.2.142.13:25461/live/primera_android/1122334455/35.ts
+#EXTINF:-1,Sehara TV
+http://190.2.142.13:25461/live/primera_android/1122334455/94.ts
+#EXTINF:-1,Semerkand TV
+http://190.2.142.13:25461/live/primera_android/1122334455/32.ts
+#EXTINF:-1,Sevdah TV
+http://190.2.142.13:25461/live/primera_android/1122334455/65.ts
+#EXTINF:-1,Sky Folk Macedonia
+http://190.2.142.13:25461/live/primera_android/1122334455/85.ts
+#EXTINF:-1,SLAVONSKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/269.ts
+#EXTINF:-1,SMART TV Tesanj
+http://190.2.142.13:25461/live/primera_android/1122334455/34.ts
+#EXTINF:-1,Spin TV
+http://190.2.142.13:25461/live/primera_android/1122334455/90.ts
+#EXTINF:-1,SREMSKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/279.ts
+#EXTINF:-1,SYRI BLUE HD TV
+http://190.2.142.13:25461/live/primera_android/1122334455/77.ts
+#EXTINF:-1,Syri Vision
+http://190.2.142.13:25461/live/primera_android/1122334455/86.ts
+#EXTINF:-1,Tanjug
+http://190.2.142.13:25461/live/primera_android/1122334455/119.ts
+#EXTINF:-1,TGRT Haber
+http://190.2.142.13:25461/live/primera_android/1122334455/21.ts
+#EXTINF:-1,TNT Kids
+http://190.2.142.13:25461/live/primera_android/1122334455/64.ts
+#EXTINF:-1,TRT Haber
+http://190.2.142.13:25461/live/primera_android/1122334455/33.ts
+#EXTINF:-1,TRT World
+http://190.2.142.13:25461/live/primera_android/1122334455/44.ts
+#EXTINF:-1,TRT1 HD
+http://190.2.142.13:25461/live/primera_android/1122334455/136.ts
+#EXTINF:-1,TRTCocukHD1
+http://190.2.142.13:25461/live/primera_android/1122334455/135.ts
+#EXTINF:-1,TRTDiyanetHD
+http://190.2.142.13:25461/live/primera_android/1122334455/134.ts
+#EXTINF:-1,TV 2 Gostivar
+http://190.2.142.13:25461/live/primera_android/1122334455/38.ts
+#EXTINF:-1,TV Bugojno
+http://190.2.142.13:25461/live/primera_android/1122334455/59.ts
+#EXTINF:-1,TV Islam Prizren
+http://190.2.142.13:25461/live/primera_android/1122334455/104.ts
+#EXTINF:-1,TV Jedinstvo Novi Pazar
+http://190.2.142.13:25461/live/primera_android/1122334455/69.ts
+#EXTINF:-1,TV Liria
+http://190.2.142.13:25461/live/primera_android/1122334455/96.ts
+#EXTINF:-1,TV Llapi
+http://190.2.142.13:25461/live/primera_android/1122334455/80.ts
+#EXTINF:-1,TV MOST
+http://190.2.142.13:25461/live/primera_android/1122334455/261.ts
+#EXTINF:-1,TV Opoja
+http://190.2.142.13:25461/live/primera_android/1122334455/50.ts
+#EXTINF:-1,TV PINK
+http://190.2.142.13:25461/live/primera_android/1122334455/141.ts
+#EXTINF:-1,TV Plisi
+http://190.2.142.13:25461/live/primera_android/1122334455/84.ts
+#EXTINF:-1,TV Sarajevo
+http://190.2.142.13:25461/live/primera_android/1122334455/31.ts
+#EXTINF:-1,TV Sharri HD
+http://190.2.142.13:25461/live/primera_android/1122334455/99.ts
+#EXTINF:-1,TV Tetove
+http://190.2.142.13:25461/live/primera_android/1122334455/60.ts
+#EXTINF:-1,TV TK
+http://190.2.142.13:25461/live/primera_android/1122334455/55.ts
+#EXTINF:-1,TV Visoko
+http://190.2.142.13:25461/live/primera_android/1122334455/56.ts
+#EXTINF:-1,TV Vogosca
+http://190.2.142.13:25461/live/primera_android/1122334455/58.ts
+#EXTINF:-1,Vikom Music
+http://190.2.142.13:25461/live/primera_android/1122334455/89.ts
+#EXTINF:-1,Vikom TV
+http://190.2.142.13:25461/live/primera_android/1122334455/23.ts
+#EXTINF:-1,VINKOVACKA TV
+http://190.2.142.13:25461/live/primera_android/1122334455/297.ts
+#EXTINF:-1,Voice Of America
+http://190.2.142.13:25461/live/primera_android/1122334455/112.ts
+#EXTINF:-1,Zdrava Hrvatska
+http://190.2.142.13:25461/live/primera_android/1122334455/39.ts
+#EXTINF:-1,Zdrava Hungary
+http://190.2.142.13:25461/live/primera_android/1122334455/108.ts
+#EXTINF:-1,Zdrava Slovenija
+http://190.2.142.13:25461/live/primera_android/1122334455/11.ts
+#EXTINF:-1,Zdrava Srbija
+http://190.2.142.13:25461/live/primera_android/1122334455/14.ts
+#EXTINF:-1,RTV Zenica
+http://190.2.142.13:25461/live/primera_android/1122334455/54.ts
+#EXTINF:-1,RTV 21 Kosove
+http://190.2.142.13:25461/live/primera_android/1122334455/48.ts
+#EXTINF:-1,Press TV Iran
+http://190.2.142.13:25461/live/primera_android/1122334455/43.ts
+#EXTINF:-1,Pride TV
+http://190.2.142.13:25461/live/primera_android/1122334455/19.ts
+#EXTINF:-1,Primera HD
+http://190.2.142.13:25461/live/primera_android/1122334455/83.ts
+#EXTINF:-1,Primera Latino
+http://190.2.142.13:25461/live/primera_android/1122334455/40.ts
+#EXTINF:-1,Primera Music
+http://190.2.142.13:25461/live/primera_android/1122334455/12.ts
+#EXTINF:-1,OSM Pale
+http://190.2.142.13:25461/live/primera_android/1122334455/25.ts
+#EXTINF:-1,Kanal 5
+http://190.2.142.13:25461/live/primera_android/1122334455/63.ts
+#EXTINF:-1,Kanal 6 HD
+http://190.2.142.13:25461/live/primera_android/1122334455/62.ts
+#EXTINF:-1,Kanal 6 SD
+http://190.2.142.13:25461/live/primera_android/1122334455/47.ts
+#EXTINF:-1,Kanal 7
+http://190.2.142.13:25461/live/primera_android/1122334455/45.ts
+#EXTINF:-1,Hispan TV
+http://190.2.142.13:25461/live/primera_android/1122334455/42.ts
+#EXTINF:-1,Jug TV
+http://190.2.142.13:25461/live/primera_android/1122334455/402.ts
+#EXTINF:-1,Zeri i Dinamarke
+http://190.2.142.13:25461/live/primera_android/1122334455/401.ts
+#EXTINF:-1,FIGHT CHANNEL
+http://190.2.142.13:25461/live/primera_android/1122334455/578.ts
+#EXTINF:-1,Izvorna TV Live
+http://190.2.142.13:25461/live/primera_android/1122334455/577.ts
+#EXTINF:-1,Jame-Jam Iran
+http://190.2.142.13:25461/live/primera_android/1122334455/1289.ts
 
 
 
