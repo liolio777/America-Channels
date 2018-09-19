@@ -2,6 +2,298 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DisneyJuniorHD.us" tvg-name="Disney Jr HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1832.png" group-title="USA",Disney Jr. (East)
 http://vapi.vaders.tv/play/39421.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="CookingChannelHD.us" tvg-name="Cooking Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3263.png" group-title="USA",Cooking Channel HD
+http://vapi.vaders.tv/play/52259.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="DiscoveryHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="USA",Discovery Channel (East)
+http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family Channel" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1847.png" group-title="USA",Discovery Family Channel HD
+http://vapi.vaders.tv/play/47566.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Discovery_Life_Logo_2016.jpg" group-title="USA",Discovery Life Channel HD
+http://vapi.vaders.tv/play/54868.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="DisneyChannelHD.us" tvg-name="Disney Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/21.png" group-title="USA",Disney Channel (East)
+http://vapi.vaders.tv/play/8197.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="DisneyXDHD.us" tvg-name="Disney XD HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1840.png" group-title="USA",Disney XD (East)
+http://vapi.vaders.tv/play/2762.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="DIYNetworkHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Diy_logo.svg/400px-Diy_logo.svg.png" group-title="USA",DIY Network
+http://vapi.vaders.tv/play/40663.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="EHD.us" tvg-name="E! HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1203.png" group-title="USA",E! HD
+http://vapi.vaders.tv/play/2760.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="ElRey.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/El_Rey_Network.png" group-title="USA",El Rey Network HD
+http://vapi.vaders.tv/play/38912.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Epix_Logo_2015.svg/440px-Epix_Logo_2015.svg.png" group-title="USA",Epix (OPT-1)
+http://vapi.vaders.tv/play/39636.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Epix_Logo_2015.svg/440px-Epix_Logo_2015.svg.png" group-title="USA",Epix 2 (OPT-1)
+http://vapi.vaders.tv/play/39635.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Epix_Logo_2015.svg/440px-Epix_Logo_2015.svg.png" group-title="USA",Epix Hits (OPT-1)
+http://vapi.vaders.tv/play/39634.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="FoodNetworkHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="USA",Food Network (OPT-1)
+http://vapi.vaders.tv/play/2913.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/800px-Freeform_2018.svg.png" group-title="USA",Freeform (West)
+http://primestreams.tv:826/live/tawnia1/tawnia1/38624.m3u8
+#EXTINF:-1 tvg-id="FuseHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="USA",Fuse HD
+http://vapi.vaders.tv/play/56452.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/400px-FX_International_logo.svg.png" group-title="USA",FX
+http://vapi.vaders.tv/play/2451.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/400px-FXM_Logo.svg.png" group-title="USA",FXM HD
+http://vapi.vaders.tv/play/56409.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="FXXHD.us" tvg-name="FXX HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1201.png" group-title="USA",FXX (OPT-1)
+http://vapi.vaders.tv/play/2452.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/800px-FYI%2C_logo.svg.png" group-title="USA",FYI HD
+http://vapi.vaders.tv/play/56458.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/GSN_logo_2015.svg/800px-GSN_logo_2015.svg.png" group-title="USA",GSN HD
+http://vapi.vaders.tv/play/39847.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="USA",HBO (East)
+http://vapi.vaders.tv/play/7859.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="USA",HBO 2 (OPT-1)
+http://vapi.vaders.tv/play/64791.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="18429" tvg-name="HBO Comedy HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/589.png" group-title="USA",HBO Comedy (OPT-2)
+http://vapi.vaders.tv/play/7860.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="59845" tvg-name="HBO Zone HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/551.png" group-title="USA",HBO Zone
+http://vapi.vaders.tv/play/7944.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="USA",HBO Signature
+http://vapi.vaders.tv/play/7857.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="16585" tvg-name="HBO Family HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1625.png" group-title="USA",HBO Family HD
+http://vapi.vaders.tv/play/59092.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="14902" tvg-name="HGTV HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/2507.png" group-title="USA",HGTV HD
+http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="USA",History
+http://vapi.vaders.tv/play/2915.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/HDNet_Movies_Logo_%28large%29.png/800px-HDNet_Movies_Logo_%28large%29.png" group-title="USA",HDNet Movies
+http://vapi.vaders.tv/play/74791.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="59444" tvg-name="IFC HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3859.png" group-title="USA",IFC HD
+http://vapi.vaders.tv/play/2773.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="USA",Investigation Discovery HD (East)
+http://iptv-area-51.tv:2095/live/Bobby75/giants11/4370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/400px-Lifetime_logo17.svg.png" group-title="USA",Lifetime (OPT-1)
+http://vapi.vaders.tv/play/2465.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="18480" tvg-name="LMN HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3524.png" group-title="USA",LMN HD
+http://vapi.vaders.tv/play/16705.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/800px-MTV_Logo_2010.svg.png" group-title="USA",MTV
+http://vapi.vaders.tv/play/12901.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/800px-MTV2_logo_2013.svg.png" group-title="USA",MTV2
+http://vapi.vaders.tv/play/57842.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="USA",MoreMax (OPT-1)
+http://vapi.vaders.tv/play/7945.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="USA",National Geographic Channel (East)
+http://vapi.vaders.tv/play/2754.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="23305" tvg-name="Nat Geo Wild HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1810.png" group-title="USA",Nat Geo Wild HD
+http://vapi.vaders.tv/play/50910.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="11006" tvg-name="Nickelodeon HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/973.png" group-title="USA",Nickelodeon HD
+http://vapi.vaders.tv/play/2460.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="19211" tvg-name="Nick Jr HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1852.png" group-title="USA",Nick Jr HD
+http://vapi.vaders.tv/play/38910.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="USA",Outdoor Channel HD
+http://vapi.vaders.tv/play/40878.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="21484" tvg-name="Oxygen HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/33.png" group-title="USA",Oxygen HD
+http://vapi.vaders.tv/play/40685.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/320px-Paramount_Network.svg.png" group-title="USA",Paramount Network (OPT-1)
+http://vapi.vaders.tv/play/2457.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/400px-PBS_Logo.svg.png" group-title="USA",PBS HD
+http://vapi.vaders.tv/play/2774.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="USA",Science Channel (OPT-2)
+http://vapi.vaders.tv/play/54628.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/800px-Showtime.svg.png" group-title="USA",Showtime Extreme (East)
+http://vapi.vaders.tv/play/64457.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/440px-Starz_2016.svg.png" group-title="USA",Starz
+http://vapi.vaders.tv/play/39873.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/440px-Starz_2016.svg.png" group-title="USA",Starz West
+http://vapi.vaders.tv/play/64903.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="34901" tvg-name="Starz Comedy" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/575.png" group-title="USA",Starz Comedy (OPT-1)
+http://vapi.vaders.tv/play/3121.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/440px-Starz_2016.svg.png" group-title="USA",Starz Kids & Family
+http://vapi.vaders.tv/play/3122.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/800px-Starz_Encore.svg.png" group-title="USA",Starz Encore
+http://vapi.vaders.tv/play/3123.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/800px-Starz_Encore.svg.png" group-title="USA",Starz Encore Westerns HD
+http://vapi.vaders.tv/play/79264.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="71280" tvg-name="Sundance TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3853.png" group-title="USA",Sundance TV HD
+http://vapi.vaders.tv/play/2780.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA",SyFy
+http://vapi.vaders.tv/play/2458.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/440px-TBS_logo_2016.svg.png" group-title="USA",TBS (East) (OPT-1)
+http://vapi.vaders.tv/play/2461.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/800px-The_Movie_Channel.svg.png" group-title="USA",The Movie Channel HD
+http://vapi.vaders.tv/play/74789.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/800px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="USA",ThrillerMax (OPT-2)
+http://vapi.vaders.tv/play/64790.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC (OPT-2)
+http://vapi.vaders.tv/play/2777.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="11164" tvg-name="TNT HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/565.png" group-title="USA",TNT (East) (OPT-1)
+http://vapi.vaders.tv/play/2459.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel (OPT-1)
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel (OPT-2)
+http://vapi.vaders.tv/play/39874.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="10153" tvg-name="TruTV HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/987.png" group-title="USA",TruTV HD
+http://vapi.vaders.tv/play/2466.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="16123" tvg-name="TV Land HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3117.png" group-title="USA",TV Land HD
+http://vapi.vaders.tv/play/40662.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/TVOne_2016.png" group-title="USA",TVOne HD
+http://vapi.vaders.tv/play/40695.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://neulionms-a.akamaihd.net/ufc/player3/ufc/site_4/images/landing/app_logo.png" group-title="USA",UFC Network HD
+http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/380px-Universal_Kids.svg.png" group-title="USA",Universal Kids (East)
+http://vapi.vaders.tv/play/56461.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png" group-title="USA",Velocity HD
+http://vapi.vaders.tv/play/2776.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network (East)
+http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
+http://72.76.39.230:8000/play/a004/index.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="USA",VH1 HD
+http://vapi.vaders.tv/play/39363.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="65732" tvg-name="Viceland HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3864.png" group-title="USA",Viceland HD
+http://vapi.vaders.tv/play/16318.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="72422" tvg-name="WeatherNation" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1894.png" group-title="USA",WeatherNation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="16409" tvg-name="WE TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/30.png" group-title="USA",WE TV HD
+http://vapi.vaders.tv/play/55523.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="USA",WWE Network (OPT-1)
+http://vapi.vaders.tv/play/3047.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK",5Star
+http://vapi.vaders.tv/play/34212.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="UK",Animal Planet
+http://vapi.vaders.tv/play/39641.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="UK",BabyTV HD
+http://vapi.vaders.tv/play/39643.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/800px-Boomerang_2014_logo.svg.png" group-title="UK",Boomerang
+http://vapi.vaders.tv/play/37248.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/500px-Cartoonito_logo.svg.png" group-title="UK",Cartoonito
+http://vapi.vaders.tv/play/52252.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="UK",Cartoon Network
+http://vapi.vaders.tv/play/37249.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC HD
+http://vapi.vaders.tv/play/37252.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/800px-CBeebies.svg.png" group-title="UK",CBeebies HD
+http://vapi.vaders.tv/play/37253.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ziggo.nl/content/www-ziggo-nl/nl/televisie/zenders/ci/_jcr_content/background_fullwidth/templatesection/section_content/nested_columns/parsys-1/templated/data/infobox_img.img.svg/1488378078847.svg" group-title="UK",Crime & Investigation Network
+http://vapi.vaders.tv/play/50557.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="UK",Discovery Channel
+http://vapi.vaders.tv/play/39639.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png" group-title="UK",Discovery History
+http://vapi.vaders.tv/play/39816.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="Disney.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/360px-2014_Disney_Channel_logo.svg.png" group-title="UK",Disney Channel
+http://vapi.vaders.tv/play/37254.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="" tvg-logo="https://my.tvguide.co.uk/channel_logos/60x35/713.png" group-title="UK",Disney Jr.
+http://vapi.vaders.tv/play/37255.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="UK",Disney XD
+http://vapi.vaders.tv/play/52253.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/E%21_logo_2012.png" group-title="UK",E! HD
+http://vapi.vaders.tv/play/39814.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/800px-Extreme_Sports_Channel.svg.png" group-title="UK",Extreme Sports Channel
+http://persik.by/stream/1418/252987/10309.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK",Food Network
+http://vapi.vaders.tv/play/36177.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/800px-FOX_wordmark-orange.svg.png" group-title="UK",FOX
+http://vapi.vaders.tv/play/39837.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Good_Food.svg/800px-Good_Food.svg.png" group-title="UK",Good Food
+http://vapi.vaders.tv/play/36178.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/300px-H2_TV_logo.svg.png" group-title="UK",H2
+http://vapi.vaders.tv/play/47860.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/ID_Logo_Grey.png" group-title="UK",Investigation Discovery
+http://vapi.vaders.tv/play/47372.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/800px-Lifetime_logo17.svg.png" group-title="UK",Lifetime
+http://vapi.vaders.tv/play/35748.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/800px-MTV_Logo_2010.svg.png" group-title="UK",MTV
+http://vapi.vaders.tv/play/39815.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/800px-Nickelodeon_logo_new.svg.png" group-title="UK",Nickelodeon
+http://vapi.vaders.tv/play/37250.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/800px-Nick_Jr._logo_2009.svg.png" group-title="UK",Nick Jr.
+http://vapi.vaders.tv/play/37251.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Nick_Jr_Too.png" group-title="UK",Nick Jr. Too
+http://vapi.vaders.tv/play/52255.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="UK",Nicktoons HD
+http://vapi.vaders.tv/play/52256.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" group-title="UK",Pick
+http://vapi.vaders.tv/play/2578.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-ID="Sky1.uk" tvg-name="UK:Sky 1 HD" tvg-logo="http://endlessiptv.xyz/pl/ukent/sky%201%20hd.png" group-title="UK",Sky One
+http://vapi.vaders.tv/play/72667.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Sky_Two_2017.png" group-title="UK",Sky 2
+http://vapi.vaders.tv/play/2574.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Sky_Atlantic_2017_logo.png" group-title="UK",Sky Atlantic
+http://vapi.vaders.tv/play/2576.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-ID="SkyMoviesActionThriller.uk" tvg-name="UK:Sky Cinema Action & Adventure HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20action%20hd.png" group-title="UK",Sky Cinema Action & Adventure 
+http://vapi.vaders.tv/play/74519.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-ID="SkyMoviesIndie.uk" tvg-name="UK:Sky Cinema Select HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20select%20hd.png" group-title="UK",Sky Cinema Select
+http://vapi.vaders.tv/play/2736.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0= 
+#EXTINF:-1 tvg-ID="SkyBrits.uk" tvg-name="UK: Sky Cinema Superhero HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20superhero%20hd.png" group-title="UK",Sky Cinema Superhero
+http://vapi.vaders.tv/play/2737.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-ID="SkyMoviesPremiere.uk" tvg-name="UK:Sky Cinema Premiere HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20premiere%20hd.png" group-title="UK",Sky Cinema Premiere
+http://vapi.vaders.tv/play/2738.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-ID="SkyMoviesComedy.uk" tvg-name="UK:Sky Cinema Comedy HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20comedy%20hd.png" group-title="UK",Sky Cinema Comedy
+http://vapi.vaders.tv/play/2743.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-ID="SkyMoviesIndie.uk" tvg-name="UK:Sky Cinema Hits HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20hits%20hd.png" group-title="UK",Sky Cinema Hits
+http://vapi.vaders.tv/play/2735.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/400px-SYFY.svg.png" group-title="UK",Syfy
+http://vapi.vaders.tv/play/35661.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-ID="Universal.uk" tvg-name="UK: UNIVERSAL CHANNEL" tvg-logo="http://endlessiptv.xyz/pl/ukent/universal%20channel%20hd.png" group-title="UK",UNIVERSAL CHANNEL
+http://vapi.vaders.tv/play/35463.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bravo_Canada_2012_logo.svg/800px-Bravo_Canada_2012_logo.svg.png" group-title="Canada",Bravo
+http://vapi.vaders.tv/play/73286.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg" group-title="Canada",Discovery Velocity
+http://vapi.vaders.tv/play/73284.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/800px-DC_2014_hero.svg.png" group-title="Canada",Disney Channel
+http://vapi.vaders.tv/play/2781.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="DisneyJrSD.ca" tvg-name="" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/12/2018/05/29143450/DisneyJr_NavLogo_202x72.png" group-title="Canada",Disney Jr.
+http://vapi.vaders.tv/play/39620.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Family_Channel_2011.png" group-title="Canada",Family Channel (East)
+http://vapi.vaders.tv/play/2764.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Family_Chrgd_logo.svg/800px-Family_Chrgd_logo.svg.png" group-title="Canada",Family Chrgd
+http://vapi.vaders.tv/play/2858.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Canada",Love Nature
+http://vapi.vaders.tv/play/2853.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="Canada",National Geographic Channel
+http://vapi.vaders.tv/play/73285.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/400px-Nat_Geo_Wild_Canada.svg.png" group-title="Canada",Nat Geo Wild
+http://vapi.vaders.tv/play/2758.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Omni-Television.svg/800px-Omni-Television.svg.png" group-title="Canada",OMNI 2 Television
+http://vapi.vaders.tv/play/2861.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/OWN_TV_Canada.png" group-title="Canada",Oprah Winfrey Network
+http://vapi.vaders.tv/play/73293.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/800px-PBS_Logo.svg.png" group-title="Canada",PBS
+http://iptv-area-51.tv:2095/live/Bobby75/giants11/8302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Peachtree.png" group-title="Canada",Peachtree TV
+http://vapi.vaders.tv/play/39618.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Showcase_Logo_2015.png" group-title="Canada",Showcase
+http://vapi.vaders.tv/play/75897.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Slice_2017.png" group-title="Canada",Slice
+http://vapi.vaders.tv/play/2782.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/800px-Space_logo_2013.svg.png" group-title="Canada",Space (OPT-1)
+http://vapi.vaders.tv/play/39619.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Sportsnetone2011.svg/800px-Sportsnetone2011.svg.png" group-title="Canada",Sportsnet One
+http://vapi.vaders.tv/play/2672.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/SportsnetOntario2011.png" group-title="Canada",Sportsnet Ontario
+http://vapi.vaders.tv/play/2673.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/800px-SportsnetWorld.svg.png" group-title="Canada",Sportsnet World
+http://vapi.vaders.tv/play/2670.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Canada",TLC
+http://vapi.vaders.tv/play/2752.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Treehouse_TV_2013.png" group-title="Canada",Treehouse TV
+http://vapi.vaders.tv/play/2766.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 group-title="(UA) Ukraine",112 | SD (UA)
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:0 group-title="(UA) Ukraine",112 (1+) | SD (UA)
