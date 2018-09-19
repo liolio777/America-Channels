@@ -1,5 +1,7 @@
 # America-Channels
 #EXTM3U
+#EXTINF:-1 tvg-id="DisneyJuniorHD.us" tvg-name="Disney Jr HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1832.png" group-title="USA",Disney Jr. (East)
+http://vapi.vaders.tv/play/39421.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
 #EXTINF:0 group-title="(UA) Ukraine",112 | SD (UA)
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:0 group-title="(UA) Ukraine",112 (1+) | SD (UA)
