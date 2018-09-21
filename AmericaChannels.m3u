@@ -14,11 +14,18 @@ http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77695.ts
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77697.ts
 #EXTINF:-1 tvg-id="CINEMAX THRILLER" tvg-name="CINEMAX THRILLER" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/294.png" group-title="USA",CINEMAX THRILLER
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/103708.ts
-#EXTINF:-1 tvg-id="cinemax moremax" tvg-name="cinemax moremax" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/292.png" group-title="USA",cinemax moremax
+#EXTINF:-1 tvg-id="cinemax moremax" tvg-name="cinemax moremax" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/292.png" group-title="USA",Cinemax moremax
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112232.ts
-
 #EXTINF:-1 tvg-id="STARZ (East)" tvg-name="STARZ (East)" tvg-logo="https://d24v5oonnj2ncn.cloudfront.net/wp-content/uploads/2013/02/12213755/starz-logo.jpg" group-title="USA",STARZ (East)
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76479.ts
+#EXTINF:-1 tvg-id="Starz Black HD" tvg-name="Starz Black HD" tvg-logo="http://legacy.shadowandact.com/wp-content/uploads/2016/05/starz_in_black.jpg" group-title="USA",Starz Black HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77683.ts
+
+#EXTINF:-1 tvg-id="Starz Cinema HD" tvg-name="Starz Cinema HD" tvg-logo="https://imgur.com/8bXRFzN" group-title="USA",Starz Cinema HD
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/75114.ts
+
+
+
 
 
 
