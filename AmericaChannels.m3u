@@ -12,13 +12,11 @@ http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74917.ts
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77695.ts
 #EXTINF:-1 tvg-id="Cinemax Action East" tvg-name="Cinemax Action East" tvg-logo="http://partner.ulango.tv/uploads/channels/554293/logo_cinemax%20action.png" group-title="USA",Cinemax Action East
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77697.ts
+#EXTINF:-1 tvg-id="CINEMAX THRILLER" tvg-name="CINEMAX THRILLER" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/294.png" group-title="USA",CINEMAX THRILLER
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/103708.ts
 
-#EXTINF:-1 tvg-id="Cinemax Action East" tvg-name="Cinemax Action East" tvg-logo="http://partner.ulango.tv/uploads/channels/554293/logo_cinemax%20action.png" group-title="USA",Cinemax Action East
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77697.ts
-
-
-
-
+#EXTINF:-1 tvg-id="cinemax moremax" tvg-name="cinemax moremax" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg/revision/latest?cb=20160721191425" group-title="USA",cinemax moremax
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112232.ts
 
 
 
