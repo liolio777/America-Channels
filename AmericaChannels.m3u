@@ -22,7 +22,7 @@ http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76479.ts
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77683.ts
 #EXTINF:-1 tvg-id="Starz Cinema HD" tvg-name="Starz Cinema HD" tvg-logo="https://image.ibb.co/cCcRez/12.png" group-title="USA",Starz Cinema HD
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/75114.ts
-#EXTINF:-1 tvg-id="WAPA" tvg-name="WAPA" tvg-logo="shorturl.at/epzPW" group-title="USA",WAPA
+#EXTINF:-1 tvg-id="WAPA" tvg-name="WAPA" tvg-logo="https://images-cdn.wapa.tv/zc=1;420x240;/_images/prog_imgs/2017/10/201710171527230.programas-_icons-wapacontigo-b.png" group-title="USA",WAPA
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/109192.ts
 
 
