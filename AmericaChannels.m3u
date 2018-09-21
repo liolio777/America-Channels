@@ -4,12 +4,18 @@
 http://vapi.vaders.tv/play/39421.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.dailywire.com/sites/default/files/styles/article_full/public/uploads/2017/11/capture_32.jpg?itok=ZjSN7wtp" group-title="USA",CNN
 http://218.202.220.2:5000/nn_live.ts?id=CNN
-
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://images.idgesg.net/images/article/2018/07/hbologo-100763744-large.jpg" group-title="USA",HBO
 http://218.202.220.2:5000/nn_live.ts?id=HBO
-
 #EXTINF:-1 tvg-id="Cinemax East" tvg-name="Cinemax East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="USA",Cinemax East
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74917.ts
+#EXTINF:-1 tvg-id="Cinemax (West)" tvg-name="Cinemax (West)" tvg-logo="https://planetdish.com/wp-content/uploads/2018/01/Cinemax-West.png" group-title="USA",Cinemax (West)
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77695.ts
+#EXTINF:-1 tvg-id="Cinemax Action East" tvg-name="Cinemax Action East" tvg-logo="http://partner.ulango.tv/uploads/channels/554293/logo_cinemax%20action.png" group-title="USA",Cinemax Action East
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77697.ts
+
+#EXTINF:-1 tvg-id="Cinemax Action East" tvg-name="Cinemax Action East" tvg-logo="http://partner.ulango.tv/uploads/channels/554293/logo_cinemax%20action.png" group-title="USA",Cinemax Action East
+http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77697.ts
+
 
 
 
