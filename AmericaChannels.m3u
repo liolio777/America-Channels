@@ -15,7 +15,7 @@ http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77697.ts
 #EXTINF:-1 tvg-id="CINEMAX THRILLER" tvg-name="CINEMAX THRILLER" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/294.png" group-title="USA",CINEMAX THRILLER
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/103708.ts
 
-#EXTINF:-1 tvg-id="cinemax moremax" tvg-name="cinemax moremax" tvg-logo="https://vignette.wikia.nocookie.net/world-of-media/images/c/c4/MoreMax.png" group-title="USA",cinemax moremax
+#EXTINF:-1 tvg-id="cinemax moremax" tvg-name="cinemax moremax" tvg-logo="http://apk.eternaltv.net/icons/MoreMax.png" group-title="USA",cinemax moremax
 http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112232.ts
 
 
