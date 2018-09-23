@@ -1,2039 +1,243 @@
 # America-Channels
 #EXTM3U
-#EXTINF:-1 tvg-id="DisneyJuniorHD.us" tvg-name="Disney Jr HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1832.png" group-title="USA",Disney Jr. (East)
-http://vapi.vaders.tv/play/39421.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.dailywire.com/sites/default/files/styles/article_full/public/uploads/2017/11/capture_32.jpg?itok=ZjSN7wtp" group-title="USA",CNN
-http://218.202.220.2:5000/nn_live.ts?id=CNN
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://images.idgesg.net/images/article/2018/07/hbologo-100763744-large.jpg" group-title="USA",HBO
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-#EXTINF:-1 tvg-id="Cinemax East" tvg-name="Cinemax East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="USA",Cinemax East
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/74917.ts
-#EXTINF:-1 tvg-id="Cinemax (West)" tvg-name="Cinemax (West)" tvg-logo="https://planetdish.com/wp-content/uploads/2018/01/Cinemax-West.png" group-title="USA",Cinemax (West)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77695.ts
-#EXTINF:-1 tvg-id="Cinemax Action East" tvg-name="Cinemax Action East" tvg-logo="http://partner.ulango.tv/uploads/channels/554293/logo_cinemax%20action.png" group-title="USA",Cinemax Action East
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77697.ts
-#EXTINF:-1 tvg-id="CINEMAX THRILLER" tvg-name="CINEMAX THRILLER" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/294.png" group-title="USA",CINEMAX THRILLER
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/103708.ts
-#EXTINF:-1 tvg-id="cinemax moremax" tvg-name="cinemax moremax" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/292.png" group-title="USA",Cinemax moremax
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/112232.ts
-#EXTINF:-1 tvg-id="STARZ (East)" tvg-name="STARZ (East)" tvg-logo="https://d24v5oonnj2ncn.cloudfront.net/wp-content/uploads/2013/02/12213755/starz-logo.jpg" group-title="USA",STARZ (East)
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/76479.ts
-#EXTINF:-1 tvg-id="Starz Black HD" tvg-name="Starz Black HD" tvg-logo="http://legacy.shadowandact.com/wp-content/uploads/2016/05/starz_in_black.jpg" group-title="USA",Starz Black HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/77683.ts
-#EXTINF:-1 tvg-id="Starz Cinema HD" tvg-name="Starz Cinema HD" tvg-logo="https://image.ibb.co/cCcRez/12.png" group-title="USA",Starz Cinema HD
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/75114.ts
-#EXTINF:-1 tvg-id="WAPA" tvg-name="WAPA" tvg-logo="https://images-cdn.wapa.tv/zc=1;420x240;/_images/prog_imgs/2017/10/201710171527230.programas-_icons-wapacontigo-b.png" group-title="USA",WAPA
-http://landiptv.live:8080/live/Jackyshow200/fe706f2f1493/109192.ts
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="CookingChannelHD.us" tvg-name="Cooking Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3263.png" group-title="USA",Cooking Channel HD
-http://vapi.vaders.tv/play/52259.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="DiscoveryHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="USA",Discovery Channel (East)
-http://vapi.vaders.tv/play/2445.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family Channel" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1847.png" group-title="USA",Discovery Family Channel HD
-http://vapi.vaders.tv/play/47566.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Discovery_Life_Logo_2016.jpg" group-title="USA",Discovery Life Channel HD
-http://vapi.vaders.tv/play/54868.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="DisneyChannelHD.us" tvg-name="Disney Channel HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/21.png" group-title="USA",Disney Channel (East)
-http://vapi.vaders.tv/play/8197.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="DisneyXDHD.us" tvg-name="Disney XD HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1840.png" group-title="USA",Disney XD (East)
-http://vapi.vaders.tv/play/2762.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="DIYNetworkHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Diy_logo.svg/400px-Diy_logo.svg.png" group-title="USA",DIY Network
-http://vapi.vaders.tv/play/40663.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="EHD.us" tvg-name="E! HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1203.png" group-title="USA",E! HD
-http://vapi.vaders.tv/play/2760.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="ElRey.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/El_Rey_Network.png" group-title="USA",El Rey Network HD
-http://vapi.vaders.tv/play/38912.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Epix_Logo_2015.svg/440px-Epix_Logo_2015.svg.png" group-title="USA",Epix (OPT-1)
-http://vapi.vaders.tv/play/39636.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Epix_Logo_2015.svg/440px-Epix_Logo_2015.svg.png" group-title="USA",Epix 2 (OPT-1)
-http://vapi.vaders.tv/play/39635.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Epix_Logo_2015.svg/440px-Epix_Logo_2015.svg.png" group-title="USA",Epix Hits (OPT-1)
-http://vapi.vaders.tv/play/39634.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="FoodNetworkHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="USA",Food Network (OPT-1)
-http://vapi.vaders.tv/play/2913.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/800px-Freeform_2018.svg.png" group-title="USA",Freeform (West)
-http://primestreams.tv:826/live/tawnia1/tawnia1/38624.m3u8
-#EXTINF:-1 tvg-id="FuseHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="USA",Fuse HD
-http://vapi.vaders.tv/play/56452.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/400px-FX_International_logo.svg.png" group-title="USA",FX
-http://vapi.vaders.tv/play/2451.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/400px-FXM_Logo.svg.png" group-title="USA",FXM HD
-http://vapi.vaders.tv/play/56409.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="FXXHD.us" tvg-name="FXX HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1201.png" group-title="USA",FXX (OPT-1)
-http://vapi.vaders.tv/play/2452.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/800px-FYI%2C_logo.svg.png" group-title="USA",FYI HD
-http://vapi.vaders.tv/play/56458.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/GSN_logo_2015.svg/800px-GSN_logo_2015.svg.png" group-title="USA",GSN HD
-http://vapi.vaders.tv/play/39847.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="USA",HBO (East)
-http://vapi.vaders.tv/play/7859.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="USA",HBO 2 (OPT-1)
-http://vapi.vaders.tv/play/64791.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="18429" tvg-name="HBO Comedy HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/589.png" group-title="USA",HBO Comedy (OPT-2)
-http://vapi.vaders.tv/play/7860.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="59845" tvg-name="HBO Zone HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/551.png" group-title="USA",HBO Zone
-http://vapi.vaders.tv/play/7944.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="USA",HBO Signature
-http://vapi.vaders.tv/play/7857.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="16585" tvg-name="HBO Family HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1625.png" group-title="USA",HBO Family HD
-http://vapi.vaders.tv/play/59092.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="14902" tvg-name="HGTV HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/2507.png" group-title="USA",HGTV HD
-http://vapi.vaders.tv/play/2454.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" group-title="USA",History
-http://vapi.vaders.tv/play/2915.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/HDNet_Movies_Logo_%28large%29.png/800px-HDNet_Movies_Logo_%28large%29.png" group-title="USA",HDNet Movies
-http://vapi.vaders.tv/play/74791.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="59444" tvg-name="IFC HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3859.png" group-title="USA",IFC HD
-http://vapi.vaders.tv/play/2773.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="USA",Investigation Discovery HD (East)
-http://iptv-area-51.tv:2095/live/Bobby75/giants11/4370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/400px-Lifetime_logo17.svg.png" group-title="USA",Lifetime (OPT-1)
-http://vapi.vaders.tv/play/2465.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="18480" tvg-name="LMN HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3524.png" group-title="USA",LMN HD
-http://vapi.vaders.tv/play/16705.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/800px-MTV_Logo_2010.svg.png" group-title="USA",MTV
-http://vapi.vaders.tv/play/12901.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/800px-MTV2_logo_2013.svg.png" group-title="USA",MTV2
-http://vapi.vaders.tv/play/57842.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="USA",MoreMax (OPT-1)
-http://vapi.vaders.tv/play/7945.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="USA",National Geographic Channel (East)
-http://vapi.vaders.tv/play/2754.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="23305" tvg-name="Nat Geo Wild HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1810.png" group-title="USA",Nat Geo Wild HD
-http://vapi.vaders.tv/play/50910.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="11006" tvg-name="Nickelodeon HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/973.png" group-title="USA",Nickelodeon HD
-http://vapi.vaders.tv/play/2460.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="19211" tvg-name="Nick Jr HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1852.png" group-title="USA",Nick Jr HD
-http://vapi.vaders.tv/play/38910.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="USA",Outdoor Channel HD
-http://vapi.vaders.tv/play/40878.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="21484" tvg-name="Oxygen HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/33.png" group-title="USA",Oxygen HD
-http://vapi.vaders.tv/play/40685.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/320px-Paramount_Network.svg.png" group-title="USA",Paramount Network (OPT-1)
-http://vapi.vaders.tv/play/2457.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/400px-PBS_Logo.svg.png" group-title="USA",PBS HD
-http://vapi.vaders.tv/play/2774.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="USA",Science Channel (OPT-2)
-http://vapi.vaders.tv/play/54628.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/800px-Showtime.svg.png" group-title="USA",Showtime Extreme (East)
-http://vapi.vaders.tv/play/64457.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/440px-Starz_2016.svg.png" group-title="USA",Starz
-http://vapi.vaders.tv/play/39873.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/440px-Starz_2016.svg.png" group-title="USA",Starz West
-http://vapi.vaders.tv/play/64903.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="34901" tvg-name="Starz Comedy" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/575.png" group-title="USA",Starz Comedy (OPT-1)
-http://vapi.vaders.tv/play/3121.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/440px-Starz_2016.svg.png" group-title="USA",Starz Kids & Family
-http://vapi.vaders.tv/play/3122.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/800px-Starz_Encore.svg.png" group-title="USA",Starz Encore
-http://vapi.vaders.tv/play/3123.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Starz_Encore.svg/800px-Starz_Encore.svg.png" group-title="USA",Starz Encore Westerns HD
-http://vapi.vaders.tv/play/79264.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="71280" tvg-name="Sundance TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3853.png" group-title="USA",Sundance TV HD
-http://vapi.vaders.tv/play/2780.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/800px-SYFY.svg.png" group-title="USA",SyFy
-http://vapi.vaders.tv/play/2458.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/440px-TBS_logo_2016.svg.png" group-title="USA",TBS (East) (OPT-1)
-http://vapi.vaders.tv/play/2461.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/800px-The_Movie_Channel.svg.png" group-title="USA",The Movie Channel HD
-http://vapi.vaders.tv/play/74789.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/800px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA",The Weather Channel
-https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/800px-Cinemax_%28Yellow%29.svg.png" group-title="USA",ThrillerMax (OPT-2)
-http://vapi.vaders.tv/play/64790.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC (OPT-2)
-http://vapi.vaders.tv/play/2777.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="11164" tvg-name="TNT HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/565.png" group-title="USA",TNT (East) (OPT-1)
-http://vapi.vaders.tv/play/2459.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel (OPT-1)
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1600px-Travel_Channel_-_Logo.svg.png" group-title="USA",Travel Channel (OPT-2)
-http://vapi.vaders.tv/play/39874.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="10153" tvg-name="TruTV HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/987.png" group-title="USA",TruTV HD
-http://vapi.vaders.tv/play/2466.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="16123" tvg-name="TV Land HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3117.png" group-title="USA",TV Land HD
-http://vapi.vaders.tv/play/40662.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/TVOne_2016.png" group-title="USA",TVOne HD
-http://vapi.vaders.tv/play/40695.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://neulionms-a.akamaihd.net/ufc/player3/ufc/site_4/images/landing/app_logo.png" group-title="USA",UFC Network HD
-http://vapi.vaders.tv/play/42469.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Universal_Kids.svg/380px-Universal_Kids.svg.png" group-title="USA",Universal Kids (East)
-http://vapi.vaders.tv/play/56461.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Velocity_logo.png" group-title="USA",Velocity HD
-http://vapi.vaders.tv/play/2776.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network (East)
-http://vapi.vaders.tv/play/2462.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/800px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
-http://72.76.39.230:8000/play/a004/index.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="USA",VH1 HD
-http://vapi.vaders.tv/play/39363.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="65732" tvg-name="Viceland HD" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3864.png" group-title="USA",Viceland HD
-http://vapi.vaders.tv/play/16318.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="72422" tvg-name="WeatherNation" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1894.png" group-title="USA",WeatherNation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="16409" tvg-name="WE TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/30.png" group-title="USA",WE TV HD
-http://vapi.vaders.tv/play/55523.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png" group-title="USA",WWE Network (OPT-1)
-http://vapi.vaders.tv/play/3047.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/5Star_logo.png" group-title="UK",5Star
-http://vapi.vaders.tv/play/34212.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="UK",Animal Planet
-http://vapi.vaders.tv/play/39641.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="UK",BabyTV HD
-http://vapi.vaders.tv/play/39643.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/800px-Boomerang_2014_logo.svg.png" group-title="UK",Boomerang
-http://vapi.vaders.tv/play/37248.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/500px-Cartoonito_logo.svg.png" group-title="UK",Cartoonito
-http://vapi.vaders.tv/play/52252.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="UK",Cartoon Network
-http://vapi.vaders.tv/play/37249.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC HD
-http://vapi.vaders.tv/play/37252.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/800px-CBeebies.svg.png" group-title="UK",CBeebies HD
-http://vapi.vaders.tv/play/37253.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ziggo.nl/content/www-ziggo-nl/nl/televisie/zenders/ci/_jcr_content/background_fullwidth/templatesection/section_content/nested_columns/parsys-1/templated/data/infobox_img.img.svg/1488378078847.svg" group-title="UK",Crime & Investigation Network
-http://vapi.vaders.tv/play/50557.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="UK",Discovery Channel
-http://vapi.vaders.tv/play/39639.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Discovery_History_logo.png" group-title="UK",Discovery History
-http://vapi.vaders.tv/play/39816.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="Disney.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/360px-2014_Disney_Channel_logo.svg.png" group-title="UK",Disney Channel
-http://vapi.vaders.tv/play/37254.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="DisneyJunior.uk" tvg-name="" tvg-logo="https://my.tvguide.co.uk/channel_logos/60x35/713.png" group-title="UK",Disney Jr.
-http://vapi.vaders.tv/play/37255.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="DisneyXD.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="UK",Disney XD
-http://vapi.vaders.tv/play/52253.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/E%21_logo_2012.png" group-title="UK",E! HD
-http://vapi.vaders.tv/play/39814.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/800px-Extreme_Sports_Channel.svg.png" group-title="UK",Extreme Sports Channel
-http://persik.by/stream/1418/252987/10309.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK",Food Network
-http://vapi.vaders.tv/play/36177.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/800px-FOX_wordmark-orange.svg.png" group-title="UK",FOX
-http://vapi.vaders.tv/play/39837.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Good_Food.svg/800px-Good_Food.svg.png" group-title="UK",Good Food
-http://vapi.vaders.tv/play/36178.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/300px-H2_TV_logo.svg.png" group-title="UK",H2
-http://vapi.vaders.tv/play/47860.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/ID_Logo_Grey.png" group-title="UK",Investigation Discovery
-http://vapi.vaders.tv/play/47372.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/800px-Lifetime_logo17.svg.png" group-title="UK",Lifetime
-http://vapi.vaders.tv/play/35748.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/800px-MTV_Logo_2010.svg.png" group-title="UK",MTV
-http://vapi.vaders.tv/play/39815.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nickelodeon_logo_new.svg/800px-Nickelodeon_logo_new.svg.png" group-title="UK",Nickelodeon
-http://vapi.vaders.tv/play/37250.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/800px-Nick_Jr._logo_2009.svg.png" group-title="UK",Nick Jr.
-http://vapi.vaders.tv/play/37251.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Nick_Jr_Too.png" group-title="UK",Nick Jr. Too
-http://vapi.vaders.tv/play/52255.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="UK",Nicktoons HD
-http://vapi.vaders.tv/play/52256.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" group-title="UK",Pick
-http://vapi.vaders.tv/play/2578.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-ID="Sky1.uk" tvg-name="UK:Sky 1 HD" tvg-logo="http://endlessiptv.xyz/pl/ukent/sky%201%20hd.png" group-title="UK",Sky One
-http://vapi.vaders.tv/play/72667.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Sky_Two_2017.png" group-title="UK",Sky 2
-http://vapi.vaders.tv/play/2574.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Sky_Atlantic_2017_logo.png" group-title="UK",Sky Atlantic
-http://vapi.vaders.tv/play/2576.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-ID="SkyMoviesActionThriller.uk" tvg-name="UK:Sky Cinema Action & Adventure HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20action%20hd.png" group-title="UK",Sky Cinema Action & Adventure 
-http://vapi.vaders.tv/play/74519.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-ID="SkyMoviesIndie.uk" tvg-name="UK:Sky Cinema Select HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20select%20hd.png" group-title="UK",Sky Cinema Select
-http://vapi.vaders.tv/play/2736.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0= 
-#EXTINF:-1 tvg-ID="SkyBrits.uk" tvg-name="UK: Sky Cinema Superhero HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20superhero%20hd.png" group-title="UK",Sky Cinema Superhero
-http://vapi.vaders.tv/play/2737.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-ID="SkyMoviesPremiere.uk" tvg-name="UK:Sky Cinema Premiere HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20premiere%20hd.png" group-title="UK",Sky Cinema Premiere
-http://vapi.vaders.tv/play/2738.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-ID="SkyMoviesComedy.uk" tvg-name="UK:Sky Cinema Comedy HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20comedy%20hd.png" group-title="UK",Sky Cinema Comedy
-http://vapi.vaders.tv/play/2743.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-ID="SkyMoviesIndie.uk" tvg-name="UK:Sky Cinema Hits HD" tvg-logo="http://endlessiptv.xyz/pl/uk%20movies/sky%20cinema%20hits%20hd.png" group-title="UK",Sky Cinema Hits
-http://vapi.vaders.tv/play/2735.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/400px-SYFY.svg.png" group-title="UK",Syfy
-http://vapi.vaders.tv/play/35661.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-ID="Universal.uk" tvg-name="UK: UNIVERSAL CHANNEL" tvg-logo="http://endlessiptv.xyz/pl/ukent/universal%20channel%20hd.png" group-title="UK",UNIVERSAL CHANNEL
-http://vapi.vaders.tv/play/35463.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bravo_Canada_2012_logo.svg/800px-Bravo_Canada_2012_logo.svg.png" group-title="Canada",Bravo
-http://vapi.vaders.tv/play/73286.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg" group-title="Canada",Discovery Velocity
-http://vapi.vaders.tv/play/73284.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/800px-DC_2014_hero.svg.png" group-title="Canada",Disney Channel
-http://vapi.vaders.tv/play/2781.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="DisneyJrSD.ca" tvg-name="" tvg-logo="https://assets.digicorus.corusdigitaldev.com/wp-content/uploads/sites/12/2018/05/29143450/DisneyJr_NavLogo_202x72.png" group-title="Canada",Disney Jr.
-http://vapi.vaders.tv/play/39620.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/Family_Channel_2011.png" group-title="Canada",Family Channel (East)
-http://vapi.vaders.tv/play/2764.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Family_Chrgd_logo.svg/800px-Family_Chrgd_logo.svg.png" group-title="Canada",Family Chrgd
-http://vapi.vaders.tv/play/2858.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Canada",Love Nature
-http://vapi.vaders.tv/play/2853.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="Canada",National Geographic Channel
-http://vapi.vaders.tv/play/73285.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/400px-Nat_Geo_Wild_Canada.svg.png" group-title="Canada",Nat Geo Wild
-http://vapi.vaders.tv/play/2758.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Omni-Television.svg/800px-Omni-Television.svg.png" group-title="Canada",OMNI 2 Television
-http://vapi.vaders.tv/play/2861.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/OWN_TV_Canada.png" group-title="Canada",Oprah Winfrey Network
-http://vapi.vaders.tv/play/73293.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/PBS_Logo.svg/800px-PBS_Logo.svg.png" group-title="Canada",PBS
-http://iptv-area-51.tv:2095/live/Bobby75/giants11/8302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Peachtree.png" group-title="Canada",Peachtree TV
-http://vapi.vaders.tv/play/39618.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Showcase_Logo_2015.png" group-title="Canada",Showcase
-http://vapi.vaders.tv/play/75897.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Slice_2017.png" group-title="Canada",Slice
-http://vapi.vaders.tv/play/2782.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/800px-Space_logo_2013.svg.png" group-title="Canada",Space (OPT-1)
-http://vapi.vaders.tv/play/39619.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Sportsnetone2011.svg/800px-Sportsnetone2011.svg.png" group-title="Canada",Sportsnet One
-http://vapi.vaders.tv/play/2672.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/SportsnetOntario2011.png" group-title="Canada",Sportsnet Ontario
-http://vapi.vaders.tv/play/2673.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/SportsnetWorld.svg/800px-SportsnetWorld.svg.png" group-title="Canada",Sportsnet World
-http://vapi.vaders.tv/play/2670.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="Canada",TLC
-http://vapi.vaders.tv/play/2752.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Treehouse_TV_2013.png" group-title="Canada",Treehouse TV
-http://vapi.vaders.tv/play/2766.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1865.png" group-title="USA",American Heroes Channel HD
-http://vapi.vaders.tv/play/74790.m3u8?token=eyJ1c2VybmFtZSI6ImF2ZGV2IiwicGFzc3dvcmQiOiJLZXliYXNlIn0=
-#EXTINF:-1,ALFA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/299.ts
-#EXTINF:-1,ANIMAL PLANET
-http://190.2.142.13:25461/live/primera_android/1122334455/331.ts
-#EXTINF:-1,ARENA SPORT 1
-http://190.2.142.13:25461/live/primera_android/1122334455/311.ts
-#EXTINF:-1,ARENA SPORT 1 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/319.ts
-#EXTINF:-1,ARENA SPORT 2
-http://190.2.142.13:25461/live/primera_android/1122334455/310.ts
-#EXTINF:-1,ARENA SPORT 2 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/318.ts
-#EXTINF:-1,ARENA SPORT 3
-http://190.2.142.13:25461/live/primera_android/1122334455/309.ts
-#EXTINF:-1,ARENA SPORT 3 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/317.ts
-#EXTINF:-1,ARENA SPORT 4
-http://190.2.142.13:25461/live/primera_android/1122334455/308.ts
-#EXTINF:-1,ARENA SPORT 4 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/316.ts
-#EXTINF:-1,ARENA SPORT 5 HD HR
-http://190.2.142.13:25461/live/primera_android/1122334455/315.ts
-#EXTINF:-1,ARTV Aab
-http://190.2.142.13:25461/live/primera_android/1122334455/92.ts
-#EXTINF:-1,AURORA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/266.ts
-#EXTINF:-1,BN MUSIC
-http://190.2.142.13:25461/live/primera_android/1122334455/277.ts
-#EXTINF:-1,BOOMERANG
-http://190.2.142.13:25461/live/primera_android/1122334455/282.ts
-#EXTINF:-1,CBS REALITY
-http://190.2.142.13:25461/live/primera_android/1122334455/360.ts
-#EXTINF:-1,CGTN DOC
-http://190.2.142.13:25461/live/primera_android/1122334455/383.ts
-#EXTINF:-1,CHASSE ET PECHE
-http://190.2.142.13:25461/live/primera_android/1122334455/236.ts
-#EXTINF:-1,CINEMAX 2
-http://190.2.142.13:25461/live/primera_android/1122334455/342.ts
-#EXTINF:-1,CINESTAR
-http://190.2.142.13:25461/live/primera_android/1122334455/363.ts
-#EXTINF:-1,CINESTAR ACTION
-http://190.2.142.13:25461/live/primera_android/1122334455/362.ts
-#EXTINF:-1,CMC
-http://190.2.142.13:25461/live/primera_android/1122334455/270.ts
-#EXTINF:-1,CNN
-http://190.2.142.13:25461/live/primera_android/1122334455/382.ts
-#EXTINF:-1,DISCOVERY
-http://190.2.142.13:25461/live/primera_android/1122334455/325.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://190.2.142.13:25461/live/primera_android/1122334455/381.ts
-#EXTINF:-1,DIVA
-http://190.2.142.13:25461/live/primera_android/1122334455/361.ts
-#EXTINF:-1,DOMA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/374.ts
-#EXTINF:-1,EUROSPORT 1
-http://190.2.142.13:25461/live/primera_android/1122334455/307.ts
-#EXTINF:-1,EUROSPORT 2
-http://190.2.142.13:25461/live/primera_android/1122334455/306.ts
-#EXTINF:-1,Face TV 2
-http://190.2.142.13:25461/live/primera_android/1122334455/36.ts
-#EXTINF:-1,FLOW RADIO SPAIN
-http://190.2.142.13:25461/live/primera_android/1122334455/165.ts
-#EXTINF:-1,FOX LIFE
-http://190.2.142.13:25461/live/primera_android/1122334455/369.ts
-#EXTINF:-1,FOX MOVIES
-http://190.2.142.13:25461/live/primera_android/1122334455/367.ts
-#EXTINF:-1,FRANCE 24
-http://190.2.142.13:25461/live/primera_android/1122334455/379.ts
-#EXTINF:-1,FTV
-http://190.2.142.13:25461/live/primera_android/1122334455/124.ts
-#EXTINF:-1,GLAS DRINE
-http://190.2.142.13:25461/live/primera_android/1122334455/301.ts
-#EXTINF:-1,H2
-http://190.2.142.13:25461/live/primera_android/1122334455/323.ts
-#EXTINF:-1,HAPPY
-http://190.2.142.13:25461/live/primera_android/1122334455/140.ts
-#EXTINF:-1,HAYAT
-http://190.2.142.13:25461/live/primera_android/1122334455/288.ts
-#EXTINF:-1,HAYAT FOLK
-http://190.2.142.13:25461/live/primera_android/1122334455/286.ts
-#EXTINF:-1,HAYAT MUSIC
-http://190.2.142.13:25461/live/primera_android/1122334455/287.ts
-#EXTINF:-1,Hayat Plus
-http://190.2.142.13:25461/live/primera_android/1122334455/139.ts
-#EXTINF:-1,HAYATOVCI
-http://190.2.142.13:25461/live/primera_android/1122334455/285.ts
-#EXTINF:-1,HBO
-http://190.2.142.13:25461/live/primera_android/1122334455/366.ts
-#EXTINF:-1,HBO 2
-http://190.2.142.13:25461/live/primera_android/1122334455/365.ts
-#EXTINF:-1,HBO 3
-http://190.2.142.13:25461/live/primera_android/1122334455/364.ts
-#EXTINF:-1,HISPAHITS FM
-http://190.2.142.13:25461/live/primera_android/1122334455/153.ts
-#EXTINF:-1,HISTORY CHANNEL
-http://190.2.142.13:25461/live/primera_android/1122334455/324.ts
-#EXTINF:-1,HOUSE RADIO ESPAÑA
-http://190.2.142.13:25461/live/primera_android/1122334455/152.ts
-#EXTINF:-1,HRT 5
-http://190.2.142.13:25461/live/primera_android/1122334455/212.ts
-#EXTINF:-1,HRT1
-http://190.2.142.13:25461/live/primera_android/1122334455/339.ts
-#EXTINF:-1,HRT2
-http://190.2.142.13:25461/live/primera_android/1122334455/338.ts
-#EXTINF:-1,HRT3
-http://190.2.142.13:25461/live/primera_android/1122334455/337.ts
-#EXTINF:-1,HRT4
-http://190.2.142.13:25461/live/primera_android/1122334455/336.ts
-#EXTINF:-1,KABEL EINS
-http://190.2.142.13:25461/live/primera_android/1122334455/378.ts
-#EXTINF:-1,KANAL 25
-http://190.2.142.13:25461/live/primera_android/1122334455/264.ts
-#EXTINF:-1,LIFE AND HOLIDAY
-http://190.2.142.13:25461/live/primera_android/1122334455/272.ts
-#EXTINF:-1,M1 FILM
-http://190.2.142.13:25461/live/primera_android/1122334455/368.ts
-#EXTINF:-1,MINIMAX
-http://190.2.142.13:25461/live/primera_android/1122334455/280.ts
-#EXTINF:-1,MRT1
-http://190.2.142.13:25461/live/primera_android/1122334455/130.ts
-#EXTINF:-1,MRT2
-http://190.2.142.13:25461/live/primera_android/1122334455/131.ts
-#EXTINF:-1,MTV IGMAN
-http://190.2.142.13:25461/live/primera_android/1122334455/298.ts
-#EXTINF:-1,N1 HD BIH
-http://190.2.142.13:25461/live/primera_android/1122334455/372.ts
-#EXTINF:-1,N24
-http://190.2.142.13:25461/live/primera_android/1122334455/238.ts
-#EXTINF:-1,NAT GEO WILD
-http://190.2.142.13:25461/live/primera_android/1122334455/234.ts
-#EXTINF:-1,NATIONAL GEOGRAPHICS
-http://190.2.142.13:25461/live/primera_android/1122334455/322.ts
-#EXTINF:-1,NEON
-http://190.2.142.13:25461/live/primera_android/1122334455/300.ts
-#EXTINF:-1,NICK JUNIOR
-http://190.2.142.13:25461/live/primera_android/1122334455/281.ts
-#EXTINF:-1,NOSTALGIA FM  ESPAÑA
-http://190.2.142.13:25461/live/primera_android/1122334455/155.ts
-#EXTINF:-1,NOVA 24
-http://190.2.142.13:25461/live/primera_android/1122334455/208.ts
-#EXTINF:-1,NOVA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/373.ts
-#EXTINF:-1,OBN SAT
-http://190.2.142.13:25461/live/primera_android/1122334455/137.ts
-#EXTINF:-1,OTV ETNO
-http://190.2.142.13:25461/live/primera_android/1122334455/332.ts
-#EXTINF:-1,OTV FOLK
-http://190.2.142.13:25461/live/primera_android/1122334455/333.ts
-#EXTINF:-1,PINK ACTION
-http://190.2.142.13:25461/live/primera_android/1122334455/356.ts
-#EXTINF:-1,PINK BH
-http://190.2.142.13:25461/live/primera_android/1122334455/138.ts
-#EXTINF:-1,PINK COMEDY
-http://190.2.142.13:25461/live/primera_android/1122334455/344.ts
-#EXTINF:-1,PINK FAMILY
-http://190.2.142.13:25461/live/primera_android/1122334455/353.ts
-#EXTINF:-1,PINK FILM
-http://190.2.142.13:25461/live/primera_android/1122334455/357.ts
-#EXTINF:-1,PINK KIDS
-http://190.2.142.13:25461/live/primera_android/1122334455/355.ts
-#EXTINF:-1,PINK KUHAR
-http://190.2.142.13:25461/live/primera_android/1122334455/345.ts
-#EXTINF:-1,PINK MOVIES
-http://190.2.142.13:25461/live/primera_android/1122334455/354.ts
-#EXTINF:-1,PINK PEDIA
-http://190.2.142.13:25461/live/primera_android/1122334455/352.ts
-#EXTINF:-1,PINK PREMIUM
-http://190.2.142.13:25461/live/primera_android/1122334455/359.ts
-#EXTINF:-1,PINK REALITY
-http://190.2.142.13:25461/live/primera_android/1122334455/347.ts
-#EXTINF:-1,PINK SCI FI FANTASY
-http://190.2.142.13:25461/live/primera_android/1122334455/343.ts
-#EXTINF:-1,PINK SERIJE
-http://190.2.142.13:25461/live/primera_android/1122334455/351.ts
-#EXTINF:-1,PINK THRILLER
-http://190.2.142.13:25461/live/primera_android/1122334455/349.ts
-#EXTINF:-1,PINK WESTERN
-http://190.2.142.13:25461/live/primera_android/1122334455/350.ts
-#EXTINF:-1,PINK WORLD CINEMA
-http://190.2.142.13:25461/live/primera_android/1122334455/346.ts
-#EXTINF:-1,PINK ZABAVA
-http://190.2.142.13:25461/live/primera_android/1122334455/348.ts
-#EXTINF:-1,POSAVINA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/377.ts
-#EXTINF:-1,PROSIEBEN
-http://190.2.142.13:25461/live/primera_android/1122334455/239.ts
-#EXTINF:-1,PRVA RS
-http://190.2.142.13:25461/live/primera_android/1122334455/291.ts
-#EXTINF:-1,RADIO BLETA TETOVË
-http://190.2.142.13:25461/live/primera_android/1122334455/164.ts
-#EXTINF:-1,RADIO DESHIRA BELGJIKE
-http://190.2.142.13:25461/live/primera_android/1122334455/157.ts
-#EXTINF:-1,RADIO GOZADERA
-http://190.2.142.13:25461/live/primera_android/1122334455/154.ts
-#EXTINF:-1,RADIO POSITIVA
-http://190.2.142.13:25461/live/primera_android/1122334455/160.ts
-#EXTINF:-1,RADIO SEHARA SARAJEVO
-http://190.2.142.13:25461/live/primera_android/1122334455/156.ts
-#EXTINF:-1,RTL
-http://190.2.142.13:25461/live/primera_android/1122334455/389.ts
-#EXTINF:-1,RTL KOCKICA
-http://190.2.142.13:25461/live/primera_android/1122334455/385.ts
-#EXTINF:-1,RTL LIVING
-http://190.2.142.13:25461/live/primera_android/1122334455/386.ts
-#EXTINF:-1,RTL MAH
-http://190.2.142.13:25461/live/primera_android/1122334455/388.ts
-#EXTINF:-1,RTL2
-http://190.2.142.13:25461/live/primera_android/1122334455/387.ts
-#EXTINF:-1,RTRS PLUS
-http://190.2.142.13:25461/live/primera_android/1122334455/294.ts
-#EXTINF:-1,RTS SAT
-http://190.2.142.13:25461/live/primera_android/1122334455/211.ts
-#EXTINF:-1,RTV BN
-http://190.2.142.13:25461/live/primera_android/1122334455/278.ts
-#EXTINF:-1,SAT 1
-http://190.2.142.13:25461/live/primera_android/1122334455/375.ts
-#EXTINF:-1,SNTV RS
-http://190.2.142.13:25461/live/primera_android/1122334455/295.ts
-#EXTINF:-1,SPORT KLUB 1
-http://190.2.142.13:25461/live/primera_android/1122334455/314.ts
-#EXTINF:-1,SPORT KLUB 2
-http://190.2.142.13:25461/live/primera_android/1122334455/313.ts
-#EXTINF:-1,SPORT KLUB 3
-http://190.2.142.13:25461/live/primera_android/1122334455/312.ts
-#EXTINF:-1,TLC
-http://190.2.142.13:25461/live/primera_android/1122334455/327.ts
-#EXTINF:-1,TRAVEL
-http://190.2.142.13:25461/live/primera_android/1122334455/329.ts
-#EXTINF:-1,TV DELTA
-http://190.2.142.13:25461/live/primera_android/1122334455/262.ts
-#EXTINF:-1,TV1
-http://190.2.142.13:25461/live/primera_android/1122334455/398.ts
-#EXTINF:-1,VIASAT HISTORY
-http://190.2.142.13:25461/live/primera_android/1122334455/328.ts
-#EXTINF:-1,VIASAT NATURE
-http://190.2.142.13:25461/live/primera_android/1122334455/326.ts
-#EXTINF:-1,Z1
-http://190.2.142.13:25461/live/primera_android/1122334455/341.ts
-#EXTINF:-1,Television 11 Espana
-http://190.2.142.13:25461/live/primera_android/1122334455/37.ts
-#EXTINF:-1,TV A Mol
-http://190.2.142.13:25461/live/primera_android/1122334455/76.ts
-#EXTINF:-1,A1 Balkan
-http://190.2.142.13:25461/live/primera_android/1122334455/1.ts
-#EXTINF:-1,A1 Bosnia
-http://190.2.142.13:25461/live/primera_android/1122334455/7.ts
-#EXTINF:-1,A1 Cinema
-http://190.2.142.13:25461/live/primera_android/1122334455/71.ts
-#EXTINF:-1,A1 Espana
-http://190.2.142.13:25461/live/primera_android/1122334455/2.ts
-#EXTINF:-1,A1 Exclusive
-http://190.2.142.13:25461/live/primera_android/1122334455/4.ts
-#EXTINF:-1,A1 HD TV
-http://190.2.142.13:25461/live/primera_android/1122334455/15.ts
-#EXTINF:-1,A1 Islam
-http://190.2.142.13:25461/live/primera_android/1122334455/6.ts
-#EXTINF:-1,A1 Kids
-http://190.2.142.13:25461/live/primera_android/1122334455/72.ts
-#EXTINF:-1,A1 Montenegro
-http://190.2.142.13:25461/live/primera_android/1122334455/120.ts
-#EXTINF:-1,A1 Music HD
-http://190.2.142.13:25461/live/primera_android/1122334455/121.ts
-#EXTINF:-1,A1 Shqiptare
-http://190.2.142.13:25461/live/primera_android/1122334455/5.ts
-#EXTINF:-1,A1 Sport
-http://190.2.142.13:25461/live/primera_android/1122334455/9.ts
-#EXTINF:-1,A1 Srbija
-http://190.2.142.13:25461/live/primera_android/1122334455/91.ts
-#EXTINF:-1,A1 World
-http://190.2.142.13:25461/live/primera_android/1122334455/3.ts
-#EXTINF:-1,Al Alam
-http://190.2.142.13:25461/live/primera_android/1122334455/106.ts
-#EXTINF:-1,Al Jazeera Balkans
-http://190.2.142.13:25461/live/primera_android/1122334455/17.ts
-#EXTINF:-1,Al Jazeera International
-http://190.2.142.13:25461/live/primera_android/1122334455/30.ts
-#EXTINF:-1,Al Jazeera Mubasher
-http://190.2.142.13:25461/live/primera_android/1122334455/29.ts
-#EXTINF:-1,ATV
-http://190.2.142.13:25461/live/primera_android/1122334455/268.ts
-#EXTINF:-1,B92 INFO
-http://190.2.142.13:25461/live/primera_android/1122334455/293.ts
-#EXTINF:-1,BALKAN EROTIC
-http://190.2.142.13:25461/live/primera_android/1122334455/231.ts
-#EXTINF:-1,BHT1 HD
-http://190.2.142.13:25461/live/primera_android/1122334455/123.ts
-#EXTINF:-1,BHT1 SD
-http://190.2.142.13:25461/live/primera_android/1122334455/133.ts
-#EXTINF:-1,BNV TV Sandzak
-http://190.2.142.13:25461/live/primera_android/1122334455/26.ts
-#EXTINF:-1,CITY TV
-http://190.2.142.13:25461/live/primera_android/1122334455/393.ts
-#EXTINF:-1,DM Sat
-http://190.2.142.13:25461/live/primera_android/1122334455/74.ts
-#EXTINF:-1,Dreamporn
-http://190.2.142.13:25461/live/primera_android/1122334455/66.ts
-#EXTINF:-1,Duga TV
-http://190.2.142.13:25461/live/primera_android/1122334455/95.ts
-#EXTINF:-1,DW
-http://190.2.142.13:25461/live/primera_android/1122334455/380.ts
-#EXTINF:-1,Face TV
-http://190.2.142.13:25461/live/primera_android/1122334455/16.ts
-#EXTINF:-1,fibwi Live
-http://190.2.142.13:25461/live/primera_android/1122334455/118.ts
-#EXTINF:-1,IFilm
-http://190.2.142.13:25461/live/primera_android/1122334455/105.ts
-#EXTINF:-1,IFilm Balkan
-http://190.2.142.13:25461/live/primera_android/1122334455/122.ts
-#EXTINF:-1,IML TV
-http://190.2.142.13:25461/live/primera_android/1122334455/49.ts
-#EXTINF:-1,imlNasheed TV
-http://190.2.142.13:25461/live/primera_android/1122334455/116.ts
-#EXTINF:-1,Islam Montenegro
-http://190.2.142.13:25461/live/primera_android/1122334455/27.ts
-#EXTINF:-1,IZVORNA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/302.ts
-#EXTINF:-1,K3 TV
-http://190.2.142.13:25461/live/primera_android/1122334455/103.ts
-#EXTINF:-1,KCN MUSIC 2
-http://190.2.142.13:25461/live/primera_android/1122334455/296.ts
-#EXTINF:-1,LAUDATO TV
-http://190.2.142.13:25461/live/primera_android/1122334455/216.ts
-#EXTINF:-1,Life TV Espana
-http://190.2.142.13:25461/live/primera_android/1122334455/20.ts
-#EXTINF:-1,Love World Euro TV
-http://190.2.142.13:25461/live/primera_android/1122334455/75.ts
-#EXTINF:-1,Mar TV Catalonia
-http://190.2.142.13:25461/live/primera_android/1122334455/18.ts
-#EXTINF:-1,Media TV
-http://190.2.142.13:25461/live/primera_android/1122334455/8.ts
-#EXTINF:-1,Meka TV
-http://190.2.142.13:25461/live/primera_android/1122334455/98.ts
-#EXTINF:-1,MirTV Europa HD
-http://190.2.142.13:25461/live/primera_android/1122334455/10.ts
-#EXTINF:-1,Moje Bugojno
-http://190.2.142.13:25461/live/primera_android/1122334455/57.ts
-#EXTINF:-1,MonteLux TV
-http://190.2.142.13:25461/live/primera_android/1122334455/73.ts
-#EXTINF:-1,NOVOSADSKA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/284.ts
-#EXTINF:-1,NTV 101 Prijedor
-http://190.2.142.13:25461/live/primera_android/1122334455/68.ts
-#EXTINF:-1,NTV Amna
-http://190.2.142.13:25461/live/primera_android/1122334455/101.ts
-#EXTINF:-1,NTV JATA
-http://190.2.142.13:25461/live/primera_android/1122334455/303.ts
-#EXTINF:-1,OSJECKA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/340.ts
-#EXTINF:-1,OTV Valentinovo
-http://190.2.142.13:25461/live/primera_android/1122334455/93.ts
-#EXTINF:-1,Plus HD TV
-http://190.2.142.13:25461/live/primera_android/1122334455/100.ts
-#EXTINF:-1,Plus TV
-http://190.2.142.13:25461/live/primera_android/1122334455/61.ts
-#EXTINF:-1,Red TV Spain
-http://190.2.142.13:25461/live/primera_android/1122334455/110.ts
-#EXTINF:-1,Roma TV
-http://190.2.142.13:25461/live/primera_android/1122334455/88.ts
-#EXTINF:-1,RROKUM TV
-http://190.2.142.13:25461/live/primera_android/1122334455/81.ts
-#EXTINF:-1,RT Dershira
-http://190.2.142.13:25461/live/primera_android/1122334455/111.ts
-#EXTINF:-1,RTCG1
-http://190.2.142.13:25461/live/primera_android/1122334455/125.ts
-#EXTINF:-1,RTCG2
-http://190.2.142.13:25461/live/primera_android/1122334455/126.ts
-#EXTINF:-1,RTCGsat
-http://190.2.142.13:25461/live/primera_android/1122334455/127.ts
-#EXTINF:-1,RTIliria
-http://190.2.142.13:25461/live/primera_android/1122334455/109.ts
-#EXTINF:-1,RTK1
-http://190.2.142.13:25461/live/primera_android/1122334455/132.ts
-#EXTINF:-1,RTRS
-http://190.2.142.13:25461/live/primera_android/1122334455/46.ts
-#EXTINF:-1,RTS1
-http://190.2.142.13:25461/live/primera_android/1122334455/128.ts
-#EXTINF:-1,RTS2
-http://190.2.142.13:25461/live/primera_android/1122334455/129.ts
-#EXTINF:-1,RTV  Islam
-http://190.2.142.13:25461/live/primera_android/1122334455/97.ts
-#EXTINF:-1,RTV 7 TUZLA
-http://190.2.142.13:25461/live/primera_android/1122334455/82.ts
-#EXTINF:-1,RTV CAZIN
-http://190.2.142.13:25461/live/primera_android/1122334455/78.ts
-#EXTINF:-1,RTV HIT
-http://190.2.142.13:25461/live/primera_android/1122334455/275.ts
-#EXTINF:-1,RTV Ilirja Gjeneve
-http://190.2.142.13:25461/live/primera_android/1122334455/67.ts
-#EXTINF:-1,RTV KISS
-http://190.2.142.13:25461/live/primera_android/1122334455/335.ts
-#EXTINF:-1,RTV Mostar
-http://190.2.142.13:25461/live/primera_android/1122334455/53.ts
-#EXTINF:-1,RTV Novi Pazar
-http://190.2.142.13:25461/live/primera_android/1122334455/24.ts
-#EXTINF:-1,RTV Slon
-http://190.2.142.13:25461/live/primera_android/1122334455/102.ts
-#EXTINF:-1,RTV USK
-http://190.2.142.13:25461/live/primera_android/1122334455/13.ts
-#EXTINF:-1,RTV Vojvodina 1
-http://190.2.142.13:25461/live/primera_android/1122334455/51.ts
-#EXTINF:-1,RTV Vojvodina 2
-http://190.2.142.13:25461/live/primera_android/1122334455/52.ts
-#EXTINF:-1,Russia Today
-http://190.2.142.13:25461/live/primera_android/1122334455/113.ts
-#EXTINF:-1,Russia Today Arabic
-http://190.2.142.13:25461/live/primera_android/1122334455/114.ts
-#EXTINF:-1,Russia Today Doc
-http://190.2.142.13:25461/live/primera_android/1122334455/115.ts
-#EXTINF:-1,Sahar Azeri
-http://190.2.142.13:25461/live/primera_android/1122334455/107.ts
-#EXTINF:-1,Sahar TV Balkan
-http://190.2.142.13:25461/live/primera_android/1122334455/41.ts
-#EXTINF:-1,SamaraGis Russia
-http://190.2.142.13:25461/live/primera_android/1122334455/22.ts
-#EXTINF:-1,Sandzacka RTV Mreza
-http://190.2.142.13:25461/live/primera_android/1122334455/70.ts
-#EXTINF:-1,Sandzacka Televizija
-http://190.2.142.13:25461/live/primera_android/1122334455/35.ts
-#EXTINF:-1,Sehara TV
-http://190.2.142.13:25461/live/primera_android/1122334455/94.ts
-#EXTINF:-1,Semerkand TV
-http://190.2.142.13:25461/live/primera_android/1122334455/32.ts
-#EXTINF:-1,Sevdah TV
-http://190.2.142.13:25461/live/primera_android/1122334455/65.ts
-#EXTINF:-1,Sky Folk Macedonia
-http://190.2.142.13:25461/live/primera_android/1122334455/85.ts
-#EXTINF:-1,SLAVONSKA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/269.ts
-#EXTINF:-1,SMART TV Tesanj
-http://190.2.142.13:25461/live/primera_android/1122334455/34.ts
-#EXTINF:-1,Spin TV
-http://190.2.142.13:25461/live/primera_android/1122334455/90.ts
-#EXTINF:-1,SREMSKA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/279.ts
-#EXTINF:-1,SYRI BLUE HD TV
-http://190.2.142.13:25461/live/primera_android/1122334455/77.ts
-#EXTINF:-1,Syri Vision
-http://190.2.142.13:25461/live/primera_android/1122334455/86.ts
-#EXTINF:-1,Tanjug
-http://190.2.142.13:25461/live/primera_android/1122334455/119.ts
-#EXTINF:-1,TGRT Haber
-http://190.2.142.13:25461/live/primera_android/1122334455/21.ts
-#EXTINF:-1,TNT Kids
-http://190.2.142.13:25461/live/primera_android/1122334455/64.ts
-#EXTINF:-1,TRT Haber
-http://190.2.142.13:25461/live/primera_android/1122334455/33.ts
-#EXTINF:-1,TRT World
-http://190.2.142.13:25461/live/primera_android/1122334455/44.ts
-#EXTINF:-1,TRT1 HD
-http://190.2.142.13:25461/live/primera_android/1122334455/136.ts
-#EXTINF:-1,TRTCocukHD1
-http://190.2.142.13:25461/live/primera_android/1122334455/135.ts
-#EXTINF:-1,TRTDiyanetHD
-http://190.2.142.13:25461/live/primera_android/1122334455/134.ts
-#EXTINF:-1,TV 2 Gostivar
-http://190.2.142.13:25461/live/primera_android/1122334455/38.ts
-#EXTINF:-1,TV Bugojno
-http://190.2.142.13:25461/live/primera_android/1122334455/59.ts
-#EXTINF:-1,TV Islam Prizren
-http://190.2.142.13:25461/live/primera_android/1122334455/104.ts
-#EXTINF:-1,TV Jedinstvo Novi Pazar
-http://190.2.142.13:25461/live/primera_android/1122334455/69.ts
-#EXTINF:-1,TV Liria
-http://190.2.142.13:25461/live/primera_android/1122334455/96.ts
-#EXTINF:-1,TV Llapi
-http://190.2.142.13:25461/live/primera_android/1122334455/80.ts
-#EXTINF:-1,TV MOST
-http://190.2.142.13:25461/live/primera_android/1122334455/261.ts
-#EXTINF:-1,TV Opoja
-http://190.2.142.13:25461/live/primera_android/1122334455/50.ts
-#EXTINF:-1,TV PINK
-http://190.2.142.13:25461/live/primera_android/1122334455/141.ts
-#EXTINF:-1,TV Plisi
-http://190.2.142.13:25461/live/primera_android/1122334455/84.ts
-#EXTINF:-1,TV Sarajevo
-http://190.2.142.13:25461/live/primera_android/1122334455/31.ts
-#EXTINF:-1,TV Sharri HD
-http://190.2.142.13:25461/live/primera_android/1122334455/99.ts
-#EXTINF:-1,TV Tetove
-http://190.2.142.13:25461/live/primera_android/1122334455/60.ts
-#EXTINF:-1,TV TK
-http://190.2.142.13:25461/live/primera_android/1122334455/55.ts
-#EXTINF:-1,TV Visoko
-http://190.2.142.13:25461/live/primera_android/1122334455/56.ts
-#EXTINF:-1,TV Vogosca
-http://190.2.142.13:25461/live/primera_android/1122334455/58.ts
-#EXTINF:-1,Vikom Music
-http://190.2.142.13:25461/live/primera_android/1122334455/89.ts
-#EXTINF:-1,Vikom TV
-http://190.2.142.13:25461/live/primera_android/1122334455/23.ts
-#EXTINF:-1,VINKOVACKA TV
-http://190.2.142.13:25461/live/primera_android/1122334455/297.ts
-#EXTINF:-1,Voice Of America
-http://190.2.142.13:25461/live/primera_android/1122334455/112.ts
-#EXTINF:-1,Zdrava Hrvatska
-http://190.2.142.13:25461/live/primera_android/1122334455/39.ts
-#EXTINF:-1,Zdrava Hungary
-http://190.2.142.13:25461/live/primera_android/1122334455/108.ts
-#EXTINF:-1,Zdrava Slovenija
-http://190.2.142.13:25461/live/primera_android/1122334455/11.ts
-#EXTINF:-1,Zdrava Srbija
-http://190.2.142.13:25461/live/primera_android/1122334455/14.ts
-#EXTINF:-1,RTV Zenica
-http://190.2.142.13:25461/live/primera_android/1122334455/54.ts
-#EXTINF:-1,RTV 21 Kosove
-http://190.2.142.13:25461/live/primera_android/1122334455/48.ts
-#EXTINF:-1,Press TV Iran
-http://190.2.142.13:25461/live/primera_android/1122334455/43.ts
-#EXTINF:-1,Pride TV
-http://190.2.142.13:25461/live/primera_android/1122334455/19.ts
-#EXTINF:-1,Primera HD
-http://190.2.142.13:25461/live/primera_android/1122334455/83.ts
-#EXTINF:-1,Primera Latino
-http://190.2.142.13:25461/live/primera_android/1122334455/40.ts
-#EXTINF:-1,Primera Music
-http://190.2.142.13:25461/live/primera_android/1122334455/12.ts
-#EXTINF:-1,OSM Pale
-http://190.2.142.13:25461/live/primera_android/1122334455/25.ts
-#EXTINF:-1,Kanal 5
-http://190.2.142.13:25461/live/primera_android/1122334455/63.ts
-#EXTINF:-1,Kanal 6 HD
-http://190.2.142.13:25461/live/primera_android/1122334455/62.ts
-#EXTINF:-1,Kanal 6 SD
-http://190.2.142.13:25461/live/primera_android/1122334455/47.ts
-#EXTINF:-1,Kanal 7
-http://190.2.142.13:25461/live/primera_android/1122334455/45.ts
-#EXTINF:-1,Hispan TV
-http://190.2.142.13:25461/live/primera_android/1122334455/42.ts
-#EXTINF:-1,Jug TV
-http://190.2.142.13:25461/live/primera_android/1122334455/402.ts
-#EXTINF:-1,Zeri i Dinamarke
-http://190.2.142.13:25461/live/primera_android/1122334455/401.ts
-#EXTINF:-1,FIGHT CHANNEL
-http://190.2.142.13:25461/live/primera_android/1122334455/578.ts
-#EXTINF:-1,Izvorna TV Live
-http://190.2.142.13:25461/live/primera_android/1122334455/577.ts
-#EXTINF:-1,Jame-Jam Iran
-http://190.2.142.13:25461/live/primera_android/1122334455/1289.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 group-title="(UA) Ukraine",112 | SD (UA)
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:0 group-title="(UA) Ukraine",112 (1+) | SD (UA)
-http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
-#EXTINF:0 group-title="(UA) Ukraine",FIRST | SD (UA)
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(UK) United Kingdom",4 SEVEN | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/37163.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",5 STAR | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/26961.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",5SPIKE | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9237.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",A1 TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/35119.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AAJ TAK | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11303.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ABN TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11337.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ABU DHABI TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11881.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AHLEBAIT TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11364.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AHLULBAYT TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11373.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AL ARABIYA | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/12594.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AL HIWAR | SD (UK)
-http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w1138816254_b1264000.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AL JAZEERA | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11078.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ALIBI | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17362.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",AMC | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11339.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9882.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9652.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ANIMAL PLANET (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17361.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ASIA TV UPDATED | SD (UK)
-http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ATN BANGLA | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11363.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BEN TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11341.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BLAZE | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11877.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BOX-NATION | SD (UK)
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1015.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",BOX-NATION (1+) | SD (UK)
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1015.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CAPITAL TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11742.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17322.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9225.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION (1+) | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/29513.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS ACTION (2+) | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9672.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17323.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9226.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA (1+) | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/29511.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS DRAMA (2+) | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9671.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17324.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9004.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY (1+) | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/29512.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CBS REALITY (2+) | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9670.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CGTN | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11883.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHALLENGE | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/21112.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9669.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 4 (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17357.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9654.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL 5 (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17356.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHANNEL AKA | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11282.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHANNELS 24 | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11356.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CHSTV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11858.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CITV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/37158.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CLUBLAND TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11736.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/8148.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",COMEDY CENTRAL | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17355.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",COUNTRY NETWORK | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/37292.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CRIME & INVERSTIGATION | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17354.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",CRIME INVESTIGATION | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/10743.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DAVE | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17353.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9879.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17352.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY CHANNEL | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9657.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9653.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HISTORY (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17351.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY HOME HEALT | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9659.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9884.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE (1+) | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9658.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SCIENCE (2+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17350.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY SHED | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9238.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9883.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO (1+) | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9660.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DISCOVERY TURBO (2+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17349.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DMAX | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/33890.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",DRAMA | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9235.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FILM 4 | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/21369.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FILM 4 (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17345.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11335.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK (1+) | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9664.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FOOD NETWORK (2+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17344.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FORCES TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11898.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FOX | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/19632.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FRONT RUNNER | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11859.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FRONT RUNNER 2 | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11372.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",GARV PUNJAB LIVE | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/37676.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",GEO KAHANI | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11294.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",GEO TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11295.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",GLORY TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11367.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",GOLD | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/27674.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",GOLD TV | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9675.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",GOOD FOOD | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/8168.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HBO COMEDY | HD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9676.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HEART TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11274.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HISTORY | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17316.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HISTORY | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/10738.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HOME | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11338.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HOME & HEALTH | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9470.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HOME&HEALTH | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17342.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HORROR CHANNEL | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11872.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HORSE & COUNTRY | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11365.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",HUM EUROPE | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11297.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ID FASHION | SD (UK)
-http://95.67.8.22/hls/idfashion/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",INVESTIGATION DISCOVERY | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17341.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ION TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/23005.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",IQRA BANGLA | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11759.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 1 | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17367.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 1 | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7680.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17366.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 2 | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7679.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17365.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 3 | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7690.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7689.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV 4 (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17340.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV BE | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/37412.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV BE (1+) | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17364.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ITV2 | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/8153.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",JUS PUNJABI | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/21852.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",KANSHI TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11354.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",KEEP IT COUNTRY | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11861.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",KTV | SD (UK)
-http://188.93.238.184:8000/live/ryan/ryan/6296.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",KTV (1+) | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/6296.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",KTV (2+) | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/12593.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LIFETIME | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9233.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LIVE | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11344.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",LIVE (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17339.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MANCHESTER UNITED TV | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7815.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MATV NATIONAL | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/22527.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MORE 4 | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/22411.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MORE 4 (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17338.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",MTA | SD (UK)
-http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NAT GEO WILD | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17336.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NAT GEOGRAPHIC | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17335.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHIC | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9885.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHIC WILD | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/29508.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NATIONAL GEOGRAPHY | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9655.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NDTV 24X7 | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/13469.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NOLLYWOOD | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11885.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NOW 80S | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11752.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",NTV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11886.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PCNE CHINESE | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11901.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV | SD (UK)
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/681.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV (1+) | SD (UK)
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/681.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PEACE TV UAE | SD (UK)
-http://199.167.151.237:1935/live/sp15_3.stream/gmswf.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PICK TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9229.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",PROPERTY SHOW | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11753.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",QUEST | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9663.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",QUEST (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17334.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",REAL LIVES | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11342.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",REALLY | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9232.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",REALLY (1+) | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9661.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ROK | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11867.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RT DOCUMENTARY | SD (UK)
-https://secure-streams.akamaized.net/rt-doc/index.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE 2 | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11334.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE ONE | HD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9648.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE ONE | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17333.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE TWO | HD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9649.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RTE TWO | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17332.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",RUSSIA TODAY | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11326.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SAFEER TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/12598.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SAMAA | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11287.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SANSKAR | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/35121.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY 1 | HD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7662.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY 2 | HD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7661.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/8156.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7672.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ARTS (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17331.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/8144.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC (1+) | HD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7682.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ATLANTIC | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17330.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY COMEDY | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9667.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY LIFE TIME | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7663.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9665.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY LIVING (1+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17329.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY MORE | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7688.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY ONE | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17372.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY TCM | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7664.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY THRILLER | HD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17312.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SKY THRILLER | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9677.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",SONY CHANNEL | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/9234.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",STAR UTSAV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/21854.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TAKBEER | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11750.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TALKING PICTURES | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11747.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TBN | SD (UK)
-https://acaooyalahd2-lh.akamaihd.net/i/TBN10_delivery@332891/index_2528_av-p.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TCM | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/14207.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TG4 | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11331.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TLC | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/8160.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TLC | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17328.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11370.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL (1+) | SD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9666.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TRAVEL CHANNEL (2+) | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17327.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TV 99 | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11909.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",TV ONE | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/12597.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/37160.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",UNIVERSAL | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17326.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",UNIVERZAL CHANNEL | HD (UK)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9668.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",URDU1 EUROPE | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/35120.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",UTV | SD (UK)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17325.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",UTV IRELAND | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11343.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",VINTAGE TV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11283.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",VOX AFRICA | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11793.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",VTV | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/35122.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ZING | SD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11314.m3u8
-
-#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(US) United States",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(US) United States",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(US) United States",AL HORREYA AR | SD (US)
-http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
-#EXTINF:0 group-title="(US) United States",BETTER HEALTH | SD (US)
-http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",BETTER LIFE | SD (US)
-http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",BETTER NATURE | SD (US)
-http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",CMC | HD (US)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/11120.m3u8
-#EXTINF:0 group-title="(US) United States",CORNERSTONE TV | SD (US)
-http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
-#EXTINF:0 group-title="(US) United States",CTNI ES | SD (US)
-http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",ESPERANZA TV ES | SD (US)
-http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",GEB | SD (US)
-http://184.173.203.50:1935/live/smil:geb/chunklist.m3u8
-#EXTINF:0 group-title="(US) United States",GEM TV | SD (US)
-http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
-#EXTINF:0 group-title="(US) United States",GOOD LIFE 45 | SD (US)
-http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",HISCHANNEL | SD (US)
-http://www1.hischannel.com/Box-Tv-Live/BoxTvLive.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:0 group-title="(US) United States",HOUSE OF YAHWEH | SD (US)
-http://198.57.164.156:1935/live/SermonLoop/chunklist_w1535326969.m3u8
-#EXTINF:0 group-title="(US) United States",JRES TV ES | SD (US)
-http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
-#EXTINF:0 group-title="(US) United States",LIFEVISION TV | SD (US)
-http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",MIAMI TV | SD (US)
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",NRB NETWORK | SD (US)
-http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",SBN PT | SD (US)
-http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
-#EXTINF:0 group-title="(US) United States",SMILE TV | SD (US)
-http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-#EXTINF:0 group-title="(US) United States",SPIRIT TELEVISION | SD (US)
-http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",TELEVISION ESNE | SD (US)
-http://198.154.228.82:1935/esne-live/smil:esnetv.smil/chunklist_w431608397_b1298000_sleng.m3u8
-#EXTINF:0 group-title="(US) United States",UK@ 5 | SD (US)
-http://izgemma.ddns.net:8000/live/ryan/ryan/37156.m3u8
-#EXTINF:0 group-title="(US) United States",VICTORY TELEVISION NETWORK | SD (US)
-http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",VIDA MEJOR | SD (US)
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",VISION CELESTIAL ES | SD (US)
-http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
-#EXTINF:0 group-title="(US) United States",WWE NETWORK | SD (US)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/7200.m3u8
-#EXTINF:0 group-title="(US) United States",Z100 1 | SD (US)
-http://limaiptv.xns01.com:25461/live/ivorb/ivorb/7069.m3u8
-
-#EXTINF:0 group-title="(WW) World Wide",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(WW) World Wide",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(WW) World Wide",AL AOULA | SD (WW)
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:0 group-title="(WW) World Wide",ALB | SD (WW)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/15913.m3u8
-#EXTINF:0 group-title="(WW) World Wide",AR AL AOULA | SD (WW)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/16872.m3u8
-#EXTINF:0 group-title="(WW) World Wide",AR FUTURE TV | SD (WW)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/16771.m3u8
-#EXTINF:0 group-title="(WW) World Wide",CDM PUERTO RICO | SD (WW)
-http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
-#EXTINF:0 group-title="(WW) World Wide",CHANNEL ITA | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/6515.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DIGI | SD (WW)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17030.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DIGI ANIMAL | SD (WW)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17028.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DIGI ANIMAL RO | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/12135.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DIGI HU | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/11041.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DIGI RO | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/12134.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DISCOVERY | SD (WW)
-http://144.217.72.121:8000/live/nova1764/a1764/1146.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DISCOVERY S | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9674.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DUNA TV HU | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/11050.m3u8
-#EXTINF:0 group-title="(WW) World Wide",EX-YU | SD (WW)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/18244.m3u8
-#EXTINF:0 group-title="(WW) World Wide",EXYU | SD (WW)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/17133.m3u8
-#EXTINF:0 group-title="(WW) World Wide",HARVEST TV USA | SD (WW)
-http://media1.lesea.com:1935/live/leseaorigin.stream/playlist.m3u8
-#EXTINF:0 group-title="(WW) World Wide",HBO 2 | SD (WW)
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:0 group-title="(WW) World Wide",KRAL TV | SD (WW)
-http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8
-#EXTINF:0 group-title="(WW) World Wide",LT CARACOL | SD (WW)
-http://144.217.72.121:8000/live/nova1764/a1764/3285.m3u8
-#EXTINF:0 group-title="(WW) World Wide",LUXURY | SD (WW)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/16676.m3u8
-#EXTINF:0 group-title="(WW) World Wide",NHK | SD (WW)
-http://limaiptv.xns01.com:25461/live/ivorb/ivorb/5856.m3u8
-#EXTINF:0 group-title="(WW) World Wide",NOVA | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/9734.m3u8
-#EXTINF:0 group-title="(WW) World Wide",OF THE HORSE | SD (WW)
-http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/index.m3u8
-#EXTINF:0 group-title="(WW) World Wide",PINK | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/5789.m3u8
-#EXTINF:0 group-title="(WW) World Wide",PRVA | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/5962.m3u8
-#EXTINF:0 group-title="(WW) World Wide",SRB | SD (WW)
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/565.m3u8
-#EXTINF:0 group-title="(WW) World Wide",SRB (1+) | SD (WW)
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/1849.m3u8
-#EXTINF:0 group-title="(WW) World Wide",SRB (2+) | SD (WW)
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/565.m3u8
-#EXTINF:0 group-title="(WW) World Wide",SRB (3+) | SD (WW)
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/1849.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRING | SD (WW)
-http://195.154.77.223:8000/live/JsmSvabO217/poxg74GOK2/263.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRING (1+) | SD (WW)
-http://albmedia.dyndns.tv:8000/live/JsmSvabO217/poxg74GOK2/263.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRING AL | SD (WW)
-http://anonymustv.cf:8000/live/thorsten2listaMail/GmOEkCIFPz/4806.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRT | HD (WW)
-http://portal.germanyservers.de:8000/live/dHuhSdjAH0/BRMtQJ21Eq/5869.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRT | SD (WW)
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0 group-title="(WW) World Wide",UK@ AIT | SD (WW)
-http://izgemma.ddns.net:8000/live/ryan/ryan/11884.m3u8
-
-#EXTINF:-1,USA_Virgin
-http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/410.ts
-#EXTINF:-1,USA_NDVTV
-http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/412.ts
-#EXTINF:-1,USA_EbS NEWS
-http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/406.ts
-#EXTINF:-1,USA_EbS
-http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/407.ts
-#EXTINF:-1,USA_Dream tv
-http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/408.ts
-#EXTINF:-1,USA_alex tv
-http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/409.ts
-#EXTINF:-1,USA: WWE Network HD
-http://best.iptvkelibia.net:5001/live/live:mtg_2406_1/Y6kaz4unrA/487.ts
-
-#EXTINF:-1,US; The Weather Channel.
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3260.ts
-#EXTINF:-1,US: A&E HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3263.ts
-#EXTINF:-1,US: AMC
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3265.ts
-#EXTINF:-1,US: Food Network
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3262.ts
-#EXTINF:-1,US: Food Network.
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3261.ts
-#EXTINF:-1,US: Fox
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3264.ts
-#EXTINF:-1,US: HBO East HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3267.ts
-#EXTINF:-1,US: HBO Familly HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3266.ts
-#EXTINF:-1,US: HBO.
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3241.ts
-#EXTINF:-1,USA ABC NEWS HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3242.ts
-#EXTINF:-1,USA ANIMAL PLANET HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3243.ts
-#EXTINF:-1,USA C-SPAN 3
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3244.ts
-#EXTINF:-1,USA CBSN HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3245.ts
-#EXTINF:-1,USA CNBC
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3246.ts
-#EXTINF:-1,USA CNN HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3247.ts
-#EXTINF:-1,USA ESPN HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3248.ts
-#EXTINF:-1,USA ESPN HD.
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3249.ts
-#EXTINF:-1,USA NBA TV
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3250.ts
-#EXTINF:-1,USA PAC 12 ARIZONA
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3251.ts
-#EXTINF:-1,USA PAC 12 LOS ANGELES
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3252.ts
-#EXTINF:-1,USA PAG 12 MOUNTAIN
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3253.ts
-#EXTINF:-1,USA SYFY HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3254.ts
-#EXTINF:-1,USA TSN 1 HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3255.ts
-#EXTINF:-1,USA TSN 3
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3256.ts
-#EXTINF:-1,USA TSN 4 HD.
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3257.ts
-#EXTINF:-1,USA TSN 5 HD
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3258.ts
-#EXTINF:-1,USA WGN NEWS TV
-#EXTVLCOPT:http-user-agent=uuuufuck7785
-http://iptv-janberyan.com:25461/live/AndrTV-pro8ui-janberyan0029/AndrTV-pro7998/3259.ts
-
-#EXTINF:-1,USA::-AMC
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8449.ts
-#EXTINF:-1,USA::-Animal.Planet
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8448.ts
-#EXTINF:-1,USA::-BeinSports.usa
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8447.ts
-#EXTINF:-1,USA::-Bravo
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8446.ts
-#EXTINF:-1,USA::-Cinemax.East
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8445.ts
-#EXTINF:-1,USA::-Cinemax.Moremax
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8444.ts
-#EXTINF:-1,USA::-Discovery
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8443.ts
-#EXTINF:-1,USA::-Discovery.Science
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8442.ts
-#EXTINF:-1,USA::-ESPN1
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8441.ts
-#EXTINF:-1,USA::-ESPN2
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8440.ts
-#EXTINF:-1,USA::-Fight.Network
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8439.ts
-#EXTINF:-1,USA::-Fox.Sport1
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8438.ts
-#EXTINF:-1,USA::-Fox.Sport2
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8437.ts
-#EXTINF:-1,USA::-Hallmark
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8436.ts
-#EXTINF:-1,USA::-HBO
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8435.ts
-#EXTINF:-1,USA::-HBO.Comedy
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8434.ts
-#EXTINF:-1,USA::-HBO.Sinature
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8433.ts
-#EXTINF:-1,USA::-HBO.Zone
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8432.ts
-#EXTINF:-1,USA::-Lifetime
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8431.ts
-#EXTINF:-1,USA::-NBC.Golf
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8430.ts
-#EXTINF:-1,USA::-NBC.Sports
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8429.ts
-#EXTINF:-1,USA::-Showtime
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8428.ts
-#EXTINF:-1,USA::-Showtime2
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8427.ts
-#EXTINF:-1,USA::-SportsNet
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8426.ts
-#EXTINF:-1,USA::-Starz..Cinema
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8425.ts
-#EXTINF:-1,USA::-Starz.Comedy
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8424.ts
-#EXTINF:-1,USA::-Starz.East
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8423.ts
-#EXTINF:-1,USA::-Starz.Edge
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8422.ts
-#EXTINF:-1,USA::-TNT
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8421.ts
-#EXTINF:-1,USA::-TSN1
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8420.ts
-#EXTINF:-1,USA::-TSN2
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8419.ts
-#EXTINF:-1,USA::-TSN3
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8418.ts
-#EXTINF:-1,USA::-TSN4
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8417.ts
-#EXTINF:-1,USA::-TSN5
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8416.ts
-#EXTINF:-1,USA::-USA.Network
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8415.ts
-#EXTINF:-1,USA::-WWE.Network
-#EXTVLCOPT:http-user-agent=Stupied
-http://max-iptv2sat.ddns.net:9000/live/asemgOOdsssssalgado/kpowefkpwofkpwofkpwkfpwfp/8414.ts
-
-#EXTINF:-1,US: CBS 47 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7785.ts
-#EXTINF:-1,US: 3 ABN kids
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9463.ts
-#EXTINF:-1,US: C SPAIN 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16688.ts
-#EXTINF:-1,US: C SPAIN 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16689.ts
-#EXTINF:-1,US: C SPAIN 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16690.ts
-#EXTINF:-1,US: FOX 25 BOSTON
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15598.ts
-#EXTINF:-1,US: JBS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9460.ts
-#EXTINF:-1,US: 3ABN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9465.ts
-#EXTINF:-1,US: 3ABN International
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9467.ts
-#EXTINF:-1,US: CBN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9469.ts
-#EXTINF:-1,US: CBN NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9468.ts
-#EXTINF:-1,US: CBSN News
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9477.ts
-#EXTINF:-1,US: CMC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9458.ts
-#EXTINF:-1,US: PAC-12 Arizona
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9470.ts
-#EXTINF:-1,US: PAC-12 Bay Area
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9472.ts
-#EXTINF:-1,US: PAC-12 Mountain
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9473.ts
-#EXTINF:-1,US: PAC-12 Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9476.ts
-#EXTINF:-1,US:  PAC-12 Los Angeles
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9471.ts
-#EXTINF:-1,US: PAC-12 Oregon
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9474.ts
-#EXTINF:-1,US: PAC-12 Washington
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9475.ts
-#EXTINF:-1,US: FOX 23 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7789.ts
-#EXTINF:-1,US: HOPE CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7793.ts
-#EXTINF:-1,US: INFOWARS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18853.ts
-#EXTINF:-1,US: DAYSTAR TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18854.ts
-#EXTINF:-1,US: CALIFORNIA MUSIC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18873.ts
-#EXTINF:-1,US: DAYTONA
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18856.ts
-#EXTINF:-1,US: DCN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18857.ts
-#EXTINF:-1,US: DKN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18858.ts
-#EXTINF:-1,US: WHPR TV 33 Detroit
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18860.ts
-#EXTINF:-1,US: NFL NETWORK
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18861.ts
-#EXTINF:-1,US: QVC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18862.ts
-#EXTINF:-1,US: NBC 11
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18863.ts
-#EXTINF:-1,US: RT NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18864.ts
-#EXTINF:-1,US: SG TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18865.ts
-#EXTINF:-1,US: Southeastern Channel
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18866.ts
-#EXTINF:-1,US: SPYDAR TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18867.ts
-#EXTINF:-1,US: TUFF  TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18868.ts
-#EXTINF:-1,US: TVV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18869.ts
-#EXTINF:-1,US: NEWS 12 island
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18870.ts
-#EXTINF:-1,US: VICELAND
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18871.ts
-#EXTINF:-1,US: NEWS 12  Westchester
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18872.ts
-#EXTINF:-1,US: PIX 11
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7802.ts
-#EXTINF:-1,US: UALR TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9459.ts
-#EXTINF:-1,US: NEWS 12 hudson valley
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9455.ts
-#EXTINF:-1,US: NEWSMAX TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7797.ts
-#EXTINF:-1,US: NEWS 12 THE BROOKLYN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7770.ts
-#EXTINF:-1,US: FILM CLUP
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11548.ts
-#EXTINF:-1,US:  RADIO MONTE CARLO TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11561.ts
-#EXTINF:-1,US:  360 north
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11562.ts
-#EXTINF:-1,US:  RETRO MUSIC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11567.ts
-#EXTINF:-1,US:  AKC TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11604.ts
-#EXTINF:-1,US: GOD TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11526.ts
-#EXTINF:-1,US: ABC HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11568.ts
-#EXTINF:-1,US:  Virgin TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11596.ts
-#EXTINF:-1,US: Fox News HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11602.ts
-#EXTINF:-1,US: HUNT CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11236.ts
-#EXTINF:-1,US: BLOOMBERG
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11234.ts
-#EXTINF:-1,US: NLF
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18421.ts
-#EXTINF:-1,US: MSNBC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18688.ts
-#EXTINF:-1,US: TRE  NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18689.ts
-#EXTINF:-1,US: WGN NEWS CHICAGO
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13612.ts
-#EXTINF:-1,US: ABC   east
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.ts
-#EXTINF:-1,US: IMPAC FRESLING
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18852.ts
-#EXTINF:-1,US: KEY TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11235.ts
-#EXTINF:-1,US: ARTS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18906.ts
-#EXTINF:-1,US: HOUSE CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18920.ts
-#EXTINF:-1,US: Catholic TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18918.ts
-#EXTINF:-1,US: CHANNEL 20
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18910.ts
-#EXTINF:-1,US: Cascade Hills Church
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18908.ts
-#EXTINF:-1,US: 3ABN francais
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20461.ts
-#EXTINF:-1,US: 3ABN Proclaim!
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20451.ts
-#EXTINF:-1,US: ABNSAT TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21584.ts
-#EXTINF:-1,US: AMC HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21186.ts
-#EXTINF:-1,US: Columbia Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20452.ts
-#EXTINF:-1,US: Discovery HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20515.ts
-#EXTINF:-1,US: Knowledge Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20453.ts
-#EXTINF:-1,US: Kool TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20456.ts
-#EXTINF:-1,US: NBC 5
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20258.ts
-#EXTINF:-1,US: NICKTOONS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20259.ts
-#EXTINF:-1,US: SBN Domestic
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21577.ts
-#EXTINF:-1,US: SBN Global
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21578.ts
-#EXTINF:-1,US: SBN International
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21579.ts
-#EXTINF:-1,US: SMILE
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21580.ts
-#EXTINF:-1,US: STAR EDG
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20262.ts
-#EXTINF:-1,US: TCT KIDS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21576.ts
-#EXTINF:-1,US: The Blaze
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20462.ts
-#EXTINF:-1,US: The Country Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20463.ts
-#EXTINF:-1,US: The NOW Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21583.ts
-#EXTINF:-1,US: trawel channel
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20265.ts
-#EXTINF:-1,US: EWTN espanol
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18909.ts
-#EXTINF:-1,US: JCTV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18915.ts
-#EXTINF:-1,US: KCCG-TV2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18905.ts
-#EXTINF:-1,US: PCTV 26
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18914.ts
-#EXTINF:-1,US: NEWS 12 THE BRONX
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18907.ts
-#EXTINF:-1,US: SFGovTV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18917.ts
-#EXTINF:-1,US: Tempe 11
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18911.ts
-#EXTINF:-1,US: ACRE TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18940.ts
-#EXTINF:-1,US: AVN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18930.ts
-#EXTINF:-1,US: CBN  NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18942.ts
-#EXTINF:-1,US: CYC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18929.ts
-#EXTINF:-1,US: TWW 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21582.ts
-#EXTINF:-1,US: WWE Network HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21064.ts
-#EXTINF:-1,US: Central Valley Talk
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18938.ts
-#EXTINF:-1,US: Channel 99
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18936.ts
-#EXTINF:-1,US: City of Charlotte
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18934.ts
-#EXTINF:-1,US: RADUT TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18941.ts
-#EXTINF:-1,US: CT-N
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18939.ts
-#EXTINF:-1,US: REVN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18927.ts
-#EXTINF:-1,US: Jewelry TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18924.ts
-#EXTINF:-1,US: LA 36
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18925.ts
-#EXTINF:-1,US: LFUCG
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18928.ts
-#EXTINF:-1,US: WOHU TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18922.ts
-#EXTINF:-1,US: Oscar Aguero Ministry
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18932.ts
-#EXTINF:-1,US: RadioU TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18931.ts
-#EXTINF:-1,US: RTN Channel 11
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18937.ts
-#EXTINF:-1,US: SFGovTV 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18933.ts
-#EXTINF:-1,US: SPRIT TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18923.ts
-#EXTINF:-1,US: TCT
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18926.ts
-#EXTINF:-1,US: WCCA TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18935.ts
-#EXTINF:-1,US: Better Life TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18912.ts
-#EXTINF:-1,US: UN Webcast
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18919.ts
-#EXTINF:-1,US: WACX TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18921.ts
-#EXTINF:-1,US: WSPF TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18913.ts
-#EXTINF:-1,US: BYU.TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18816.ts
-#EXTINF:-1,US: Free Speech TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18880.ts
-#EXTINF:-1,US: NEWS 12 connecticut
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7805.ts
-#EXTINF:-1,US: OWN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18881.ts
-#EXTINF:-1,US: PBS HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18878.ts
-#EXTINF:-1,US: FOX 5 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18882.ts
-#EXTINF:-1,US: ABC  NEWS  24
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18904.ts
-#EXTINF:-1,US: KXAN News
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18874.ts
-#EXTINF:-1,US: NBC 4  NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18883.ts
-#EXTINF:-1,US: NEWS 25
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18877.ts
-#EXTINF:-1,US: CHANNEL 11 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20469.ts
-#EXTINF:-1,US: KOB 4 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20468.ts
-#EXTINF:-1,US: MIAMI TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20268.ts
-#EXTINF:-1,US: ABC 7 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20457.ts
-#EXTINF:-1,US: Hillsong Channel
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20458.ts
-#EXTINF:-1,US: RANDOM CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20460.ts
-#EXTINF:-1,US: TSN SPORT 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
-#EXTINF:-1,US: TSN SPORT 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
-#EXTINF:-1,US: TSN SPORT 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
-#EXTINF:-1,US: TSTV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19383.ts
-#EXTINF:-1,US: TVW
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20464.ts
-#EXTINF:-1,US: Voice of America
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20465.ts
-#EXTINF:-1,US: VTV Channel 6 Colorado
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20466.ts
-#EXTINF:-1,US: WEATHER CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20247.ts
-#EXTINF:-1,US: WGN 9 HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19381.ts
-#EXTINF:-1,US: 3ABN englis
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20467.ts
-#EXTINF:-1,US: ORANGE TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20459.ts
-#EXTINF:-1,US: FOX 25 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20454.ts
-#EXTINF:-1,US: Evine Live
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20455.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19387.ts
-#EXTINF:-1,US: NewsChannel 21
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18879.ts
-#EXTINF:-1,US: Capital TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18459.ts
-#EXTINF:-1,US: Dare to Dream
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18875.ts
-#EXTINF:-1,US: ESPN  NBA
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19749.ts
-#EXTINF:-1,US: TBN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18815.ts
-#EXTINF:-1,US: Visual Radio
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11597.ts
-#EXTINF:-1,US: NEWS 12
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9984.ts
-#EXTINF:-1,US: NEWS 12  new jersey
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7806.ts
-#EXTINF:-1,US: WCCB NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7807.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19270.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19291.ts
-#EXTINF:-1,UK: ComedyXtra
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19247.ts
-#EXTINF:-1,UK: CRIME & INVERSTIGATION
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19238.ts
-#EXTINF:-1,UK: MOVIES ACTION HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19327.ts
-#EXTINF:-1,UK: TG4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19325.ts
-#EXTINF:-1,UK: TLC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19324.ts
-#EXTINF:-1,UK: NICK JUNIOR
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19192.ts
-#EXTINF:-1,UK: DISCCOVERY TURBO
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19235.ts
-#EXTINF:-1,UK: True Movies 2 HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19234.ts
-#EXTINF:-1,UK: CHANNEL 5
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19262.ts
-#EXTINF:-1,UK: 5 Star
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19357.ts
-#EXTINF:-1,UK: 5 USA
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19358.ts
-#EXTINF:-1,UK: Alibi
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19359.ts
-#EXTINF:-1,UK: BBC 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19356.ts
-#EXTINF:-1,UK: BBC News
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19354.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19226.ts
-#EXTINF:-1,UK: MOVIES DISNEY HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19301.ts
-#EXTINF:-1,UK: Animal Planet
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19283.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19224.ts
-#EXTINF:-1,UK: CHANNEL 4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19350.ts
-#EXTINF:-1,UK: TCM
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19220.ts
-#EXTINF:-1,UK: E !
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19345.ts
-#EXTINF:-1,UK: ITV 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19339.ts
-#EXTINF:-1,UK: ITV Be
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19337.ts
-#EXTINF:-1,UK: RTE 2 HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19336.ts
-#EXTINF:-1,UK: ITV4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19338.ts
-#EXTINF:-1,UK: More 4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19332.ts
-#EXTINF:-1,UK: Sky Two HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19294.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19330.ts
-#EXTINF:-1,UK: DAVE
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19236.ts
-#EXTINF:-1,UK: Disney XD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19191.ts
-#EXTINF:-1,UK: DISNEY CHANNEL HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19190.ts
-#EXTINF:-1,UK: NICKTOONS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19188.ts
-#EXTINF:-1,UK: ITV 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19187.ts
-#EXTINF:-1,UK: BT SPORT EXTRA 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19186.ts
-#EXTINF:-1,UK: CBS ACTION
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19274.ts
-#EXTINF:-1,UK: Comedy Central
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19251.ts
-#EXTINF:-1,UK: CBS NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7786.ts
-#EXTINF:-1,UK: ABC NEWS 24
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20374.ts
-#EXTINF:-1,UK: Arise News
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20371.ts
-#EXTINF:-1,UK: RT
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20372.ts
-#EXTINF:-1,UK: RTE NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20373.ts
-#EXTINF:-1,UK: CTV 8
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20375.ts
-#EXTINF:-1,UK: Wairarapa TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20376.ts
-#EXTINF:-1,UK: DISCOVERY
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9206.ts
+http://iptv-area-51.tv:2095/live/pet/pet/1872.ts
+#EXTINF:-1,US | ABC East
+http://iptv-area-51.tv:2095/live/pet/pet/3353.ts
+#EXTINF:-1,US | ABC West (D)
+http://iptv-area-51.tv:2095/live/pet/pet/10889.ts
+#EXTINF:-1,US | AMC
+http://iptv-area-51.tv:2095/live/pet/pet/3318.ts
+#EXTINF:-1,US | American Heroes Network
+http://iptv-area-51.tv:2095/live/pet/pet/206.ts
+#EXTINF:-1,US | Animal Planet
+http://iptv-area-51.tv:2095/live/pet/pet/195.ts
+#EXTINF:-1,US | BBC America
+http://iptv-area-51.tv:2095/live/pet/pet/3264.ts
+#EXTINF:-1,US | BET
+http://iptv-area-51.tv:2095/live/pet/pet/6066.ts
+#EXTINF:-1,US | BET Her
+http://iptv-area-51.tv:2095/live/pet/pet/9226.ts
+#EXTINF:-1,US | Bloomberg
+http://iptv-area-51.tv:2095/live/pet/pet/329.ts
+#EXTINF:-1,US | Bounce TV
+http://iptv-area-51.tv:2095/live/pet/pet/12146.ts
+#EXTINF:-1,US | Bravo
+http://iptv-area-51.tv:2095/live/pet/pet/22.ts
+#EXTINF:-1,US | Buzzr
+http://iptv-area-51.tv:2095/live/pet/pet/12147.ts
+#EXTINF:-1,US | CBS East
+http://iptv-area-51.tv:2095/live/pet/pet/1518.ts
+#EXTINF:-1,US | CBS NY
+http://iptv-area-51.tv:2095/live/pet/pet/12144.ts
+#EXTINF:-1,US | CMT
+http://iptv-area-51.tv:2095/live/pet/pet/6070.ts
+#EXTINF:-1,US | COZI TV
+http://iptv-area-51.tv:2095/live/pet/pet/12142.ts
+#EXTINF:-1,US | CW Network
+http://iptv-area-51.tv:2095/live/pet/pet/2265.ts
+#EXTINF:-1,US | Cartoon Network
+http://iptv-area-51.tv:2095/live/pet/pet/1519.ts
+#EXTINF:-1,US | Cinemax
+http://iptv-area-51.tv:2095/live/pet/pet/4347.ts
+#EXTINF:-1,US | Cinemax ActionMax
+http://iptv-area-51.tv:2095/live/pet/pet/10931.ts
+#EXTINF:-1,US | Cinemax MoreMax
+http://iptv-area-51.tv:2095/live/pet/pet/10929.ts
+#EXTINF:-1,US | Cinemax ThrillerMax
+http://iptv-area-51.tv:2095/live/pet/pet/10932.ts
+#EXTINF:-1,US | Comedy Central East
+http://iptv-area-51.tv:2095/live/pet/pet/8278.ts
+#EXTINF:-1,US | Cooking Channel
+http://iptv-area-51.tv:2095/live/pet/pet/4502.ts
+#EXTINF:-1,US | Cowboy Channel
+http://iptv-area-51.tv:2095/live/pet/pet/12078.ts
+#EXTINF:-1,US | Crime & Investigation Network
+http://iptv-area-51.tv:2095/live/pet/pet/3655.ts
+#EXTINF:-1,US | DIY Network
+http://iptv-area-51.tv:2095/live/pet/pet/13.ts
+#EXTINF:-1,US | Decades
+http://iptv-area-51.tv:2095/live/pet/pet/12573.ts
+#EXTINF:-1,US | Destination America
+http://iptv-area-51.tv:2095/live/pet/pet/6088.ts
+#EXTINF:-1,US | Discovery Channel
+http://iptv-area-51.tv:2095/live/pet/pet/8097.ts
+#EXTINF:-1,US | Discovery Family
+http://iptv-area-51.tv:2095/live/pet/pet/12487.ts
+#EXTINF:-1,US | Discovery Life
+http://iptv-area-51.tv:2095/live/pet/pet/4473.ts
+#EXTINF:-1,US | Discovery Science
+http://iptv-area-51.tv:2095/live/pet/pet/4160.ts
+#EXTINF:-1,US | Disney Channel
+http://iptv-area-51.tv:2095/live/pet/pet/3875.ts
+#EXTINF:-1,US | Disney Jr
+http://iptv-area-51.tv:2095/live/pet/pet/3876.ts
+#EXTINF:-1,US | Disney XD
+http://iptv-area-51.tv:2095/live/pet/pet/3878.ts
+#EXTINF:-1,US | E!
+http://iptv-area-51.tv:2095/live/pet/pet/11.ts
+#EXTINF:-1,US | El Rey Network
+http://iptv-area-51.tv:2095/live/pet/pet/4241.ts
+#EXTINF:-1,US | Epix
+http://iptv-area-51.tv:2095/live/pet/pet/13193.ts
+#EXTINF:-1,US | Epix 2
+http://iptv-area-51.tv:2095/live/pet/pet/13194.ts
+#EXTINF:-1,US | Epix Hits
+http://iptv-area-51.tv:2095/live/pet/pet/12574.ts
+#EXTINF:-1,US | FX
+http://iptv-area-51.tv:2095/live/pet/pet/4088.ts
+#EXTINF:-1,US | FXM
+http://iptv-area-51.tv:2095/live/pet/pet/4510.ts
+#EXTINF:-1,US | FXX
+http://iptv-area-51.tv:2095/live/pet/pet/38.ts
+#EXTINF:-1,US | FYI
+http://iptv-area-51.tv:2095/live/pet/pet/4612.ts
+#EXTINF:-1,US | Food Network
+http://iptv-area-51.tv:2095/live/pet/pet/1870.ts
+#EXTINF:-1,US | Fox 4 (Local)
+http://iptv-area-51.tv:2095/live/pet/pet/13210.ts
+#EXTINF:-1,US | Fox East
+http://iptv-area-51.tv:2095/live/pet/pet/3090.ts
+#EXTINF:-1,US | Freeform
+http://iptv-area-51.tv:2095/live/pet/pet/6075.ts
+#EXTINF:-1,US | GSN
+http://iptv-area-51.tv:2095/live/pet/pet/4576.ts
+#EXTINF:-1,US | HBO 2 East
+http://iptv-area-51.tv:2095/live/pet/pet/232.ts
+#EXTINF:-1,US | HBO Comedy
+http://iptv-area-51.tv:2095/live/pet/pet/10915.ts
+#EXTINF:-1,US | HBO East
+http://iptv-area-51.tv:2095/live/pet/pet/231.ts
+#EXTINF:-1,US | HBO Family
+http://iptv-area-51.tv:2095/live/pet/pet/10916.ts
+#EXTINF:-1,US | HBO Zone
+http://iptv-area-51.tv:2095/live/pet/pet/238.ts
+#EXTINF:-1,US | HGTV
+http://iptv-area-51.tv:2095/live/pet/pet/3144.ts
+#EXTINF:-1,US | HLN
+http://iptv-area-51.tv:2095/live/pet/pet/12072.ts
+#EXTINF:-1,US | Hallmark Channel
+http://iptv-area-51.tv:2095/live/pet/pet/4332.ts
+#EXTINF:-1,US | Hallmark Drama
+http://iptv-area-51.tv:2095/live/pet/pet/12572.ts
+#EXTINF:-1,US | Hallmark Movie Channel
+http://iptv-area-51.tv:2095/live/pet/pet/278.ts
+#EXTINF:-1,US | History
+http://iptv-area-51.tv:2095/live/pet/pet/5943.ts
+#EXTINF:-1,US | IFC
+http://iptv-area-51.tv:2095/live/pet/pet/5140.ts
+#EXTINF:-1,US | ION TV
+http://iptv-area-51.tv:2095/live/pet/pet/12153.ts
+#EXTINF:-1,US | Investigation Discovery
+http://iptv-area-51.tv:2095/live/pet/pet/4370.ts
+#EXTINF:-1,US | Laff TV
+http://iptv-area-51.tv:2095/live/pet/pet/13211.ts
+#EXTINF:-1,US | Lifetime
+http://iptv-area-51.tv:2095/live/pet/pet/7.ts
+#EXTINF:-1,US | Lifetime Movie Network
+http://iptv-area-51.tv:2095/live/pet/pet/8.ts
+#EXTINF:-1,US | Logo (D)
+http://iptv-area-51.tv:2095/live/pet/pet/11445.ts
+#EXTINF:-1,US | MGM
+http://iptv-area-51.tv:2095/live/pet/pet/12618.ts
+#EXTINF:-1,US | MTV 2
+http://iptv-area-51.tv:2095/live/pet/pet/12622.ts
+#EXTINF:-1,US | MTV East
+http://iptv-area-51.tv:2095/live/pet/pet/6068.ts
+#EXTINF:-1,US | Me TV
+http://iptv-area-51.tv:2095/live/pet/pet/7334.ts
+#EXTINF:-1,US | NBC 4 NY
+http://iptv-area-51.tv:2095/live/pet/pet/12137.ts
+#EXTINF:-1,US | NBC East
+http://iptv-area-51.tv:2095/live/pet/pet/3241.ts
+#EXTINF:-1,US | NBC West Los Angeles
+http://iptv-area-51.tv:2095/live/pet/pet/12511.ts
+#EXTINF:-1,US | Nat Geo Wild
+http://iptv-area-51.tv:2095/live/pet/pet/196.ts
+#EXTINF:-1,US | National Geographic Channel
+http://iptv-area-51.tv:2095/live/pet/pet/4090.ts
+#EXTINF:-1,US | Nick Jr
+http://iptv-area-51.tv:2095/live/pet/pet/3726.ts
+#EXTINF:-1,US | Nickelodeon
+http://iptv-area-51.tv:2095/live/pet/pet/4091.ts
+#EXTINF:-1,US | OWN
+http://iptv-area-51.tv:2095/live/pet/pet/3108.ts
+#EXTINF:-1,US | Outdoor Channel
+http://iptv-area-51.tv:2095/live/pet/pet/11100.ts
+#EXTINF:-1,US | Ovation
+http://iptv-area-51.tv:2095/live/pet/pet/12081.ts
+#EXTINF:-1,US | Oxygen TV
+http://iptv-area-51.tv:2095/live/pet/pet/20.ts
+#EXTINF:-1,US | PBS
+http://iptv-area-51.tv:2095/live/pet/pet/12080.ts
+#EXTINF:-1,US | PBS Kids
+http://iptv-area-51.tv:2095/live/pet/pet/2446.ts
+#EXTINF:-1,US | Paramount Network
+http://iptv-area-51.tv:2095/live/pet/pet/7470.ts
+#EXTINF:-1,US | Pop
+http://iptv-area-51.tv:2095/live/pet/pet/11029.ts
+#EXTINF:-1,US | QVC
+http://iptv-area-51.tv:2095/live/pet/pet/1922.ts
+#EXTINF:-1,US | QVC 2 (D)
+http://iptv-area-51.tv:2095/live/pet/pet/1552.ts
+#EXTINF:-1,US | QVC Plus
+http://iptv-area-51.tv:2095/live/pet/pet/4302.ts
+#EXTINF:-1,US | Reelz
+http://iptv-area-51.tv:2095/live/pet/pet/12073.ts
+#EXTINF:-1,US | Rev’n
+http://iptv-area-51.tv:2095/live/pet/pet/12084.ts
+#EXTINF:-1,US | Revolt
+http://iptv-area-51.tv:2095/live/pet/pet/12405.ts
+#EXTINF:-1,US | SYFY
+http://iptv-area-51.tv:2095/live/pet/pet/4092.ts
+#EXTINF:-1,US | Showtime
+http://iptv-area-51.tv:2095/live/pet/pet/4220.ts
+#EXTINF:-1,US | Showtime 2
+http://iptv-area-51.tv:2095/live/pet/pet/4221.ts
+#EXTINF:-1,US | Smithsonian Channel
+http://iptv-area-51.tv:2095/live/pet/pet/7483.ts
+#EXTINF:-1,US | Starz Comedy
+http://iptv-area-51.tv:2095/live/pet/pet/10912.ts
+#EXTINF:-1,US | Starz East
+http://iptv-area-51.tv:2095/live/pet/pet/4218.ts
+#EXTINF:-1,US | Starz Edge
+http://iptv-area-51.tv:2095/live/pet/pet/10913.ts
+#EXTINF:-1,US | Starz Encore
+http://iptv-area-51.tv:2095/live/pet/pet/4234.ts
+#EXTINF:-1,US | Starz Encore Westerns
+http://iptv-area-51.tv:2095/live/pet/pet/12619.ts
+#EXTINF:-1,US | Starz Kids & Family
+http://iptv-area-51.tv:2095/live/pet/pet/10918.ts
+#EXTINF:-1,US | Sundance TV
+http://iptv-area-51.tv:2095/live/pet/pet/4436.ts
+#EXTINF:-1,US | TBS
+http://iptv-area-51.tv:2095/live/pet/pet/1878.ts
+#EXTINF:-1,US | TCM
+http://iptv-area-51.tv:2095/live/pet/pet/24.ts
+#EXTINF:-1,US | TLC
+http://iptv-area-51.tv:2095/live/pet/pet/19.ts
+#EXTINF:-1,US | TNT
+http://iptv-area-51.tv:2095/live/pet/pet/29.ts
+#EXTINF:-1,US | TV Land
+http://iptv-area-51.tv:2095/live/pet/pet/3146.ts
+#EXTINF:-1,US | TV One
+http://iptv-area-51.tv:2095/live/pet/pet/3158.ts
+#EXTINF:-1,US | Teen Nick
+http://iptv-area-51.tv:2095/live/pet/pet/13202.ts
+#EXTINF:-1,US | Travel Channel
+http://iptv-area-51.tv:2095/live/pet/pet/4274.ts
+#EXTINF:-1,US | Tru TV
+http://iptv-area-51.tv:2095/live/pet/pet/3997.ts
+#EXTINF:-1,US | UP
+http://iptv-area-51.tv:2095/live/pet/pet/11462.ts
+#EXTINF:-1,US | USA Network
+http://iptv-area-51.tv:2095/live/pet/pet/3892.ts
+#EXTINF:-1,US | VH1 East
+http://iptv-area-51.tv:2095/live/pet/pet/6064.ts
+#EXTINF:-1,US | Velocity
+http://iptv-area-51.tv:2095/live/pet/pet/3971.ts
+#EXTINF:-1,US | Viceland
+http://iptv-area-51.tv:2095/live/pet/pet/3970.ts
+#EXTINF:-1,US | WGN America
+http://iptv-area-51.tv:2095/live/pet/pet/8348.ts
+#EXTINF:-1,US | We TV
+http://iptv-area-51.tv:2095/live/pet/pet/21.ts
