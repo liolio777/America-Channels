@@ -1,7 +1,286 @@
 # America-Channels
 #EXTM3U
 #EXTINF:-1,⬤ ◍ ◎ USA ◎ ◍ ⬤
-http://teotv.ddns.net:8000/live/bito/bito/235.ts
+#EXTINF:-1,USA:  ESPN HD
+http://81.30.144.107:8000/live/alanca/alanca/1624.ts
+#EXTINF:-1,USA:  Food Network HD
+http://81.30.144.107:8000/live/alanca/alanca/1625.ts
+#EXTINF:-1,USA: A&E HD
+http://81.30.144.107:8000/live/alanca/alanca/5973.ts
+#EXTINF:-1,USA: AFN Sports
+http://81.30.144.107:8000/live/alanca/alanca/5975.ts
+#EXTINF:-1,USA: AFN Sports 2
+http://81.30.144.107:8000/live/alanca/alanca/5976.ts
+#EXTINF:-1,USA: AMC
+http://81.30.144.107:8000/live/alanca/alanca/5977.ts
+#EXTINF:-1,USA: ANIMAL PLANET
+http://81.30.144.107:8000/live/alanca/alanca/5978.ts
+#EXTINF:-1,USA: beIN SPORTS HD
+http://81.30.144.107:8000/live/alanca/alanca/4161.ts
+#EXTINF:-1,USA: BOX OFFICE MOVIES
+http://81.30.144.107:8000/live/alanca/alanca/5979.ts
+#EXTINF:-1,USA: C-Span
+http://81.30.144.107:8000/live/alanca/alanca/1616.ts
+#EXTINF:-1,USA: C-Span 2
+http://81.30.144.107:8000/live/alanca/alanca/1617.ts
+#EXTINF:-1,USA: C-Span 3
+http://81.30.144.107:8000/live/alanca/alanca/1618.ts
+#EXTINF:-1,USA: CBS News
+http://81.30.144.107:8000/live/alanca/alanca/1619.ts
+#EXTINF:-1,USA: Cinemax East
+http://81.30.144.107:8000/live/alanca/alanca/4150.ts
+#EXTINF:-1,USA: CNBC
+http://81.30.144.107:8000/live/alanca/alanca/1626.ts
+#EXTINF:-1,USA: CW
+http://81.30.144.107:8000/live/alanca/alanca/5800.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://81.30.144.107:8000/live/alanca/alanca/5980.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://81.30.144.107:8000/live/alanca/alanca/5981.ts
+#EXTINF:-1,USA: DISCOVERY SHOWCASE
+http://81.30.144.107:8000/live/alanca/alanca/4138.ts
+#EXTINF:-1,USA: E! Entertainment
+http://81.30.144.107:8000/live/alanca/alanca/1634.ts
+#EXTINF:-1,USA: ESPN NEWS
+http://81.30.144.107:8000/live/alanca/alanca/4132.ts
+#EXTINF:-1,USA: Fight Network / MMA Network
+http://81.30.144.107:8000/live/alanca/alanca/5982.ts
+#EXTINF:-1,USA: Fight Sport 1
+http://81.30.144.107:8000/live/alanca/alanca/5983.ts
+#EXTINF:-1,USA: Fight Sport 2
+http://81.30.144.107:8000/live/alanca/alanca/5984.ts
+#EXTINF:-1,USA: FOX News
+http://81.30.144.107:8000/live/alanca/alanca/6399.ts
+#EXTINF:-1,USA: FOX NY
+http://81.30.144.107:8000/live/alanca/alanca/5985.ts
+#EXTINF:-1,USA: FOX Soccer Plus
+http://81.30.144.107:8000/live/alanca/alanca/5986.ts
+#EXTINF:-1,USA: FOX Sport 1
+http://81.30.144.107:8000/live/alanca/alanca/538.ts
+#EXTINF:-1,USA: FOX SPORTS ONE
+http://81.30.144.107:8000/live/alanca/alanca/5987.ts
+#EXTINF:-1,USA: HBO Family HD
+http://81.30.144.107:8000/live/alanca/alanca/5988.ts
+#EXTINF:-1,USA: HBO SIGNATURE
+http://81.30.144.107:8000/live/alanca/alanca/5989.ts
+#EXTINF:-1,USA: LIFE TIME
+http://81.30.144.107:8000/live/alanca/alanca/4109.ts
+#EXTINF:-1,USA: NBC HD
+http://81.30.144.107:8000/live/alanca/alanca/4089.ts
+#EXTINF:-1,USA: NFL Network HD
+http://81.30.144.107:8000/live/alanca/alanca/5990.ts
+#EXTINF:-1,USA: NFL Now
+http://81.30.144.107:8000/live/alanca/alanca/159.ts
+#EXTINF:-1,USA: NHL NETWORK
+http://81.30.144.107:8000/live/alanca/alanca/4077.ts
+#EXTINF:-1,USA: NHLTV NETWORK HD
+http://81.30.144.107:8000/live/alanca/alanca/4076.ts
+#EXTINF:-1,USA: NICKELODEON KIDS
+http://81.30.144.107:8000/live/alanca/alanca/4074.ts
+#EXTINF:-1,USA: NICKTOONS
+http://81.30.144.107:8000/live/alanca/alanca/4073.ts
+#EXTINF:-1,USA: OWN HD (Oprah Winfrey TV)
+http://81.30.144.107:8000/live/alanca/alanca/4071.ts
+#EXTINF:-1,USA: PAC-12 Net. (Arizona)
+http://81.30.144.107:8000/live/alanca/alanca/1636.ts
+#EXTINF:-1,USA: PAC-12 Net. (Bay Area)
+http://81.30.144.107:8000/live/alanca/alanca/1637.ts
+#EXTINF:-1,USA: PAC-12 Net. (Los Angeles)
+http://81.30.144.107:8000/live/alanca/alanca/1638.ts
+#EXTINF:-1,USA: PAC-12 Net. (Moutain)
+http://81.30.144.107:8000/live/alanca/alanca/1639.ts
+#EXTINF:-1,USA: PAC-12 Net. (Oregon)
+http://81.30.144.107:8000/live/alanca/alanca/1640.ts
+#EXTINF:-1,USA: PAC-12 Network Live
+http://81.30.144.107:8000/live/alanca/alanca/1635.ts
+#EXTINF:-1,USA: PAC-12 Washington
+http://81.30.144.107:8000/live/alanca/alanca/1621.ts
+#EXTINF:-1,USA: QVC Beauty IQ
+http://81.30.144.107:8000/live/alanca/alanca/4069.ts
+#EXTINF:-1,USA: Showtime 2 HD
+http://81.30.144.107:8000/live/alanca/alanca/4065.ts
+#EXTINF:-1,USA: Starz
+http://81.30.144.107:8000/live/alanca/alanca/4053.ts
+#EXTINF:-1,USA: Starz Cinema
+http://81.30.144.107:8000/live/alanca/alanca/4059.ts
+#EXTINF:-1,USA: Starz Comedy
+http://81.30.144.107:8000/live/alanca/alanca/5991.ts
+#EXTINF:-1,USA: Starz East
+http://81.30.144.107:8000/live/alanca/alanca/5992.ts
+#EXTINF:-1,USA: Starz Edge HD
+http://81.30.144.107:8000/live/alanca/alanca/5993.ts
+#EXTINF:-1,USA: Starz Encore East
+http://81.30.144.107:8000/live/alanca/alanca/4055.ts
+#EXTINF:-1,USA: Starz Encore HD
+http://81.30.144.107:8000/live/alanca/alanca/5994.ts
+#EXTINF:-1,USA: SYFY HD
+http://81.30.144.107:8000/live/alanca/alanca/4052.ts
+#EXTINF:-1,USA: T.N.T
+http://81.30.144.107:8000/live/alanca/alanca/4051.ts
+#EXTINF:-1,USA: TBS HD
+http://81.30.144.107:8000/live/alanca/alanca/4049.ts
+#EXTINF:-1,USA: TRU TV
+http://81.30.144.107:8000/live/alanca/alanca/4044.ts
+#EXTINF:-1,USA: TRUE MOVIES
+http://81.30.144.107:8000/live/alanca/alanca/4043.ts
+#EXTINF:-1,USA: WGN News TV
+http://81.30.144.107:8000/live/alanca/alanca/1622.ts
+#EXTINF:-1,USA: WWE
+http://81.30.144.107:8000/live/alanca/alanca/1614.ts
+#EXTINF:-1,⬤ ◍ ◎ UK ◎ ◍ ⬤
+http://81.30.144.107:8000/live/alanca/alanca/234.ts
+#EXTINF:-1,UK: At The Races
+http://81.30.144.107:8000/live/alanca/alanca/526.ts
+#EXTINF:-1,UK: BBC One
+http://81.30.144.107:8000/live/alanca/alanca/527.ts
+#EXTINF:-1,UK: BBC Three
+http://81.30.144.107:8000/live/alanca/alanca/523.ts
+#EXTINF:-1,UK: BBC Two
+http://81.30.144.107:8000/live/alanca/alanca/5801.ts
+#EXTINF:-1,UK: BOXNATION
+http://81.30.144.107:8000/live/alanca/alanca/530.ts
+#EXTINF:-1,UK: British Eurosport2
+http://81.30.144.107:8000/live/alanca/alanca/474.ts
+#EXTINF:-1,UK: BT Sport 1
+http://81.30.144.107:8000/live/alanca/alanca/531.ts
+#EXTINF:-1,UK: BT Sport 2
+http://81.30.144.107:8000/live/alanca/alanca/532.ts
+#EXTINF:-1,UK: BT Sport 3
+http://81.30.144.107:8000/live/alanca/alanca/534.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://81.30.144.107:8000/live/alanca/alanca/533.ts
+#EXTINF:-1,UK: BT SPORTS HD 3
+http://81.30.144.107:8000/live/alanca/alanca/5807.ts
+#EXTINF:-1,UK: Cartoon Network UK
+http://81.30.144.107:8000/live/alanca/alanca/476.ts
+#EXTINF:-1,UK: CBS Action
+http://81.30.144.107:8000/live/alanca/alanca/477.ts
+#EXTINF:-1,UK: CBS Drama
+http://81.30.144.107:8000/live/alanca/alanca/478.ts
+#EXTINF:-1,UK: Chelsea TV
+http://81.30.144.107:8000/live/alanca/alanca/479.ts
+#EXTINF:-1,UK: CNBC Europe
+http://81.30.144.107:8000/live/alanca/alanca/480.ts
+#EXTINF:-1,UK: CNN
+http://81.30.144.107:8000/live/alanca/alanca/536.ts
+#EXTINF:-1,UK: Comedy Central HD
+http://81.30.144.107:8000/live/alanca/alanca/481.ts
+#EXTINF:-1,UK: Crime Investigation
+http://81.30.144.107:8000/live/alanca/alanca/483.ts
+#EXTINF:-1,UK: Discovery
+http://81.30.144.107:8000/live/alanca/alanca/484.ts
+#EXTINF:-1,UK: Discovery History
+http://81.30.144.107:8000/live/alanca/alanca/485.ts
+#EXTINF:-1,UK: Discovery Science
+http://81.30.144.107:8000/live/alanca/alanca/486.ts
+#EXTINF:-1,UK: Discovery Shed
+http://81.30.144.107:8000/live/alanca/alanca/5808.ts
+#EXTINF:-1,UK: Discovery Shed UK
+http://81.30.144.107:8000/live/alanca/alanca/487.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://81.30.144.107:8000/live/alanca/alanca/488.ts
+#EXTINF:-1,UK: Disney Channel
+http://81.30.144.107:8000/live/alanca/alanca/490.ts
+#EXTINF:-1,UK: Disney Junior
+http://81.30.144.107:8000/live/alanca/alanca/491.ts
+#EXTINF:-1,UK: Disney XD
+http://81.30.144.107:8000/live/alanca/alanca/489.ts
+#EXTINF:-1,UK: E! Entertainment
+http://81.30.144.107:8000/live/alanca/alanca/492.ts
+#EXTINF:-1,UK: Eurosport
+http://81.30.144.107:8000/live/alanca/alanca/537.ts
+#EXTINF:-1,UK: Fine Living Network
+http://81.30.144.107:8000/live/alanca/alanca/493.ts
+#EXTINF:-1,UK: FOX HD
+http://81.30.144.107:8000/live/alanca/alanca/494.ts
+#EXTINF:-1,UK: History UK
+http://81.30.144.107:8000/live/alanca/alanca/496.ts
+#EXTINF:-1,UK: Horror Channel UK
+http://81.30.144.107:8000/live/alanca/alanca/497.ts
+#EXTINF:-1,UK: INVESTIGATION DISCOVERY
+http://81.30.144.107:8000/live/alanca/alanca/4217.ts
+#EXTINF:-1,UK: MTV Base HD
+http://81.30.144.107:8000/live/alanca/alanca/498.ts
+#EXTINF:-1,UK: MTV Dance HD
+http://81.30.144.107:8000/live/alanca/alanca/499.ts
+#EXTINF:-1,UK: MTV Hits!
+http://81.30.144.107:8000/live/alanca/alanca/500.ts
+#EXTINF:-1,UK: MTV Live HD
+http://81.30.144.107:8000/live/alanca/alanca/501.ts
+#EXTINF:-1,UK: MTV Music
+http://81.30.144.107:8000/live/alanca/alanca/5809.ts
+#EXTINF:-1,UK: MTV Music UK
+http://81.30.144.107:8000/live/alanca/alanca/502.ts
+#EXTINF:-1,UK: MTV Rocks UK
+http://81.30.144.107:8000/live/alanca/alanca/503.ts
+#EXTINF:-1,UK: MUTV HD
+http://81.30.144.107:8000/live/alanca/alanca/504.ts
+#EXTINF:-1,UK: Nat Geo Wild HD UK
+http://81.30.144.107:8000/live/alanca/alanca/505.ts
+#EXTINF:-1,UK: National Geographic HD
+http://81.30.144.107:8000/live/alanca/alanca/5810.ts
+#EXTINF:-1,UK: National Geographic HD UK
+http://81.30.144.107:8000/live/alanca/alanca/506.ts
+#EXTINF:-1,UK: Nick Junior
+http://81.30.144.107:8000/live/alanca/alanca/508.ts
+#EXTINF:-1,UK: Nickelodeon
+http://81.30.144.107:8000/live/alanca/alanca/509.ts
+#EXTINF:-1,UK: NickToons
+http://81.30.144.107:8000/live/alanca/alanca/510.ts
+#EXTINF:-1,UK: Premier Sport
+http://81.30.144.107:8000/live/alanca/alanca/540.ts
+#EXTINF:-1,UK: PREMIER SPORTS HD
+http://81.30.144.107:8000/live/alanca/alanca/511.ts
+#EXTINF:-1,UK: Racing UK
+http://81.30.144.107:8000/live/alanca/alanca/541.ts
+#EXTINF:-1,UK: Russia Today
+http://81.30.144.107:8000/live/alanca/alanca/542.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://81.30.144.107:8000/live/alanca/alanca/513.ts
+#EXTINF:-1,UK: Sky Living 1
+http://81.30.144.107:8000/live/alanca/alanca/517.ts
+#EXTINF:-1,UK: Sky Movies Action
+http://81.30.144.107:8000/live/alanca/alanca/512.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://81.30.144.107:8000/live/alanca/alanca/514.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://81.30.144.107:8000/live/alanca/alanca/518.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://81.30.144.107:8000/live/alanca/alanca/515.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://81.30.144.107:8000/live/alanca/alanca/516.ts
+#EXTINF:-1,UK: Sky Movies Modern
+http://81.30.144.107:8000/live/alanca/alanca/519.ts
+#EXTINF:-1,UK: SKY News
+http://81.30.144.107:8000/live/alanca/alanca/543.ts
+#EXTINF:-1,UK: Sky Sport Cricket : Old Sky Sports 4 HD
+http://81.30.144.107:8000/live/alanca/alanca/5805.ts
+#EXTINF:-1,UK: Sky Sport Football : Old Sky Sports 3 HD
+http://81.30.144.107:8000/live/alanca/alanca/5804.ts
+#EXTINF:-1,UK: Sky Sport Mix : Old Sky Sports 5 HD
+http://81.30.144.107:8000/live/alanca/alanca/5811.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://81.30.144.107:8000/live/alanca/alanca/4344.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://81.30.144.107:8000/live/alanca/alanca/4343.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://81.30.144.107:8000/live/alanca/alanca/4342.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://81.30.144.107:8000/live/alanca/alanca/4341.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://81.30.144.107:8000/live/alanca/alanca/5806.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://81.30.144.107:8000/live/alanca/alanca/4186.ts
+#EXTINF:-1,UK: Sky Sports Main Event : Old Sky Sport 1
+http://81.30.144.107:8000/live/alanca/alanca/5802.ts
+#EXTINF:-1,UK: Sky Sports Mix
+http://81.30.144.107:8000/live/alanca/alanca/520.ts
+#EXTINF:-1,UK: Sky Sports Primier League : Old Sky Sports 2 HD
+http://81.30.144.107:8000/live/alanca/alanca/5803.ts
+#EXTINF:-1,UK: Sky Thriller Movies
+http://81.30.144.107:8000/live/alanca/alanca/521.ts
+#EXTINF:-1,UK: SyFy HD
+http://81.30.144.107:8000/live/alanca/alanca/522.ts
 #EXTINF:-1,USA:  ESPN HD
 http://teotv.ddns.net:8000/live/bito/bito/1624.ts
 #EXTINF:-1,USA:  Food Network HD
