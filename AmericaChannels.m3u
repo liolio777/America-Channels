@@ -1,5 +1,992 @@
 # America-Channels
 #EXTM3U
+
+#EXTINF:0,BBC1 HD - BBC1 HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=1&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BBC One - BBC One
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=2&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BBC2 HD - BBC2 HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=3&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BBC TWO - BBC TWO
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=4&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV HD - ITV HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=5&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV - ITV
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=6&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV plus1 - ITV plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=7&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Channel 4 HD - Channel 4 HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=8&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Channel 4 - Channel 4
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=9&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Channel 4 plus1 - Channel 4 plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=10&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Channel 5 HD - Channel 5 HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=11&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Channel 5 - Channel 5
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=12&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Channel 5 plus1 - Channel 5 plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=13&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV2 - ITV2
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=14&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV3 - ITV3
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=15&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV4 - ITV4
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=16&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITVBe - ITVBe
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=17&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,4seven - 4seven
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=18&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,E4 - E4
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=19&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,More4 - More4
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=20&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,5 USA - 5 USA
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=21&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,5STAR - 5STAR
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=22&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,My5 - My5
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=23&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,AMC from BT - AMC from BT
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=24&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky1 HD - Sky1 HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=25&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky1 - Sky1
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=26&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky2 - Sky2
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=27&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Living - Sky Living
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=28&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Atlantic HD - Sky Atlantic HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=29&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Atlantic - Sky Atlantic
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=30&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Arts - Sky Arts
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=31&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Discovery - Discovery
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=32&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Disc.History - Disc.History
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=33&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Disc.Science - Disc.Science
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=34&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Disc.Turbo - Disc.Turbo
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=35&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Discovery Shed - Discovery Shed
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=36&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,DMAX - DMAX
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=37&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Blaze - Blaze
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=38&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ComedyCentral - ComedyCentral
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=39&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ComedyXtra - ComedyXtra
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=40&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Crime and Investigation - Crime and Investigation
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=41&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Animal Planet - Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=42&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,HISTORY - HISTORY
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=43&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,H2 - H2
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=44&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,National Geo Wild - National Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=45&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,National Geographic - National Geographic
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=46&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,TLC - TLC
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=47&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Syfy - Syfy
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=48&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Lifetime - Lifetime
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=49&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MTV - MTV
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=50&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Dave - Dave
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=51&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Dave ja vu - Dave ja vu
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=52&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,FOX - FOX
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=53&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,horror channel - horror channel
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=54&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ID - ID
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=55&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Good Food - Good Food
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=56&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Home - Home
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=57&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Food Network - Food Network
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=58&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,alibi - alibi
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=59&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Drama - Drama
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=60&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,E! - E!
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=61&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eden - Eden
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=62&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,GOLD - GOLD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=63&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Pick - Pick
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=64&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Really - Really
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=65&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Yesterday - Yesterday
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=66&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,W - W
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=67&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Universal - Universal
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=68&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,QUEST - QUEST
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.115:80/live?channelId=69&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA ACTION & ADVENTURE HD - CINEMA ACTION & ADVENTURE HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=70&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA DISNEY HD - CINEMA DISNEY HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=71&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA DRAMA AND ROMANCE HD - CINEMA DRAMA AND ROMANCE HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=72&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA FAMILY HD - CINEMA FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=73&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA HITS HD - CINEMA HITS HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=74&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA MODERN GREATS HD - CINEMA MODERN GREATS HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=75&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA PREMIERE HD - CINEMA PREMIERE HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=76&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA SCI-FI & HORROR HD - CINEMA SCI-FI & HORROR HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=77&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA SELECT HD - CINEMA SELECT HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=78&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CINEMA THRILLER HD - CINEMA THRILLER HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=79&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Action & Adventure - Sky Movies Action & Adventure
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=80&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Comedy - Sky Movies Comedy
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=81&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Disney - Sky Movies Disney
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=82&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Drama & Romance - Sky Movies Drama & Romance
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=83&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Family - Sky Movies Family
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=84&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Greats - Sky Movies Greats
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=85&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Premiere - Sky Movies Premiere
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=86&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Sci-Fi & Horror - Sky Movies Sci-Fi & Horror
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=87&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Select - Sky Movies Select
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=88&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sky Movies Thriller - Sky Movies Thriller
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=89&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Baby TV - Baby TV
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=90&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CBBC - CBBC
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=91&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Cartoon network - Cartoon network
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=92&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Cbeeies - Cbeeies
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=93&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Disney Channel - Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=94&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Disney Jr - Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=95&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Disney XD - Disney XD
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=96&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Nick Jr - Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=97&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Nick Toons - Nick Toons
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=98&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Nickelodeon - Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=99&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NickJr Too - NickJr Too
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=100&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Boomerang - Boomerang
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=101&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MTV Base - MTV Base
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=102&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MTV Classic - MTV Classic
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=103&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MTV Dance - MTV Dance
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=104&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MTV Hits - MTV Hits
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=105&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MTV Music - MTV Music
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=106&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MTV Rocks - MTV Rocks
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=107&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BBC One Northern Ireland - BBC One Northern Ireland
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=108&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BBC One Scotland - BBC One Scotland
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=109&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BBC Two Scotland - BBC Two Scotland
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=110&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BBC Two Wales - BBC Two Wales
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=111&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,3e - 3e
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=112&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,RTE one - RTE one
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=113&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,RTE two - RTE two
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=114&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,S4C - S4C
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=115&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,STV - STV
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=116&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,STV2 - STV2
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=117&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,TG4 - TG4
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=118&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Action - Sly Sports Action
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=119&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Action HD - Sly Sports Action HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=120&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Arena - Sly Sports Arena
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=121&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Arena HD - Sly Sports Arena HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=122&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Cricket - Sly Sports Cricket
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=123&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Cricket HD - Sly Sports Cricket HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=124&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Football - Sly Sports Football
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=125&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Football HD - Sly Sports Football HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=126&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Golf - Sly Sports Golf
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=127&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Golf HD - Sly Sports Golf HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=128&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Main - Sly Sports Main
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=129&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Main HD - Sly Sports Main HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=130&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Mix - Sly Sports Mix
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=131&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Mix HD - Sly Sports Mix HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=132&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports PL - Sly Sports PL
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=133&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports PL HD - Sly Sports PL HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=134&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports F1 - Sly Sports F1
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=135&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Spts F1 HD - Sly Spts F1 HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=136&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports News - Sly Sports News
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=137&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports News HD - Sly Sports News HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=138&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sly Sports Box Office - Sly Sports Box Office
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=139&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport 1 - BT Sport 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=140&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport 1 HD - BT Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=141&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport 2 - BT Sport 2
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=142&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport 2 HD - BT Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=143&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport 3 - BT Sport 3
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=144&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport 3 HD - BT Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=145&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport ESPN - BT Sport ESPN
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=146&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport ESPN HD - BT Sport ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=147&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport Extra 1 - BT Sport Extra 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=148&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport Extra 2 - BT Sport Extra 2
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=149&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport Extra 3 - BT Sport Extra 3
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=150&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport Extra 4 - BT Sport Extra 4
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=151&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport Extra 5 - BT Sport Extra 5
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=152&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BT Sport Extra 6 - BT Sport Extra 6
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=153&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,eir Sport 1 - eir Sport 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=154&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,eir Sport 2 - eir Sport 2
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=155&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eurosport 1 - Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=156&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eurosport 2 - Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=157&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,FreeSports - FreeSports
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=158&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,FrontRunner - FrontRunner
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=159&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MUTV - MUTV
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=162&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,LFC tv - LFC tv
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=163&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Chelsea Tv - Chelsea Tv
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=164&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MOTOGP LIVE 1 - MOTOGP LIVE 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=165&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MOTOGP LIVE 2 - MOTOGP LIVE 2
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=166&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MOTOGP LIVE 3 - MOTOGP LIVE 3
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=167&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Motorsport TV - Motorsport TV
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=168&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Premier Sports - Premier Sports
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=169&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Premier Sports HD - Premier Sports HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=170&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Racing UK - Racing UK
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=171&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Racing UK HD - Racing UK HD
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=172&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,At The Races - At The Races
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=173&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BoxNation - BoxNation
+#EXTVLCOPT:network-caching=1000
+http://62.210.214.28:80/live?channelId=174&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,bein france 1 - bein france 1
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=175&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,bein france 2 - bein france 2
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=176&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,bein france 3 - bein france 3
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=177&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 1 HD - beINSport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=178&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 2 HD - beINSport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=179&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 3 HD - beINSport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=180&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 4 HD - beINSport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=181&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 5 HD - beINSport 5 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=182&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 6 HD - beINSport 6 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=183&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 7 HD - beINSport 7 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=184&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 8 HD - beINSport 8 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=185&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 9 HD - beINSport 9 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=186&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 10 HD - beINSport 10 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=187&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 11 HD - beINSport 11 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=188&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,beINSport 12 HD - beINSport 12 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=189&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BEin Sports EPL 1 - BEin Sports EPL 1
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=190&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BEin Sports EPL 2 - BEin Sports EPL 2
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=191&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BEin Sports EPL 3 - BEin Sports EPL 3
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=192&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,TSN 1 - TSN 1
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=217&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,TSN 2 - TSN 2
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=218&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,TSN 3 - TSN 3
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=219&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,TSN 4 - TSN 4
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=220&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,TSN 5 - TSN 5
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=221&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTS NET 360 HD - SPORTS NET 360 HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=222&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTS NET EAST HD - SPORTS NET EAST HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=223&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTS NET ONE HD - SPORTS NET ONE HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=224&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=225&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=226&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTS NET WEST HD - SPORTS NET WEST HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=227&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTS NET WORLD HD - SPORTS NET WORLD HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=228&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTSNET 360 - SPORTSNET 360
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=229&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTSNET EAST - SPORTSNET EAST
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=230&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTSNET ONE - SPORTSNET ONE
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=231&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTSNET ONE HD - SPORTSNET ONE HD
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=232&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTSNET ONTARIO - SPORTSNET ONTARIO
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=233&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTSNET PACIFIC - SPORTSNET PACIFIC
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=234&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTSNET WEST - SPORTSNET WEST
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=235&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPORTSNET WORLD - SPORTSNET WORLD
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=236&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,USA FOX SPORTS 1 - USA FOX SPORTS 1
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,USA FOX SPORTS 2 - USA FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=238&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,A&E (US) - A&E (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=239&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,AFN SPORTS (US) - AFN SPORTS (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=240&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,AFN SPORTS 2 (US) - AFN SPORTS 2 (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=241&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,AMC (US) - AMC (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=242&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Animal Planet (US) - Animal Planet (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=243&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,DESTINATION AMERICA (US) - DESTINATION AMERICA (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=244&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Discovery (US) - Discovery (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=245&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,DISCOVERY SCIENCE (US) - DISCOVERY SCIENCE (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=246&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,E! ENTERTAINMENT (US) - E! ENTERTAINMENT (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=247&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,FOX NEWS - FOX NEWS
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=248&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,FX (US) - FX (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=249&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,HISTORY (US) - HISTORY (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=250&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MBL NETWORK (US) - MBL NETWORK (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=251&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SPIKE (US) - SPIKE (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=253&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SYFY (US) - SYFY (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=254&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,TBS (US) - TBS (US)
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=255&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,WWE Network - WWE Network
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=256&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BBC NEWS - BBC NEWS
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=257&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CNN NEWS - CNN NEWS
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=258&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SKY NEWS - SKY NEWS
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=259&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ADULT 1 - ADULT 1
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=260&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ADULT 2 - ADULT 2
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=268&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ADULT 3 - ADULT 3
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=269&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ADULT 4 - ADULT 4
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=270&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ADULT 5 - ADULT 5
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=271&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV BOX OFFICE
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=315&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Friends - 24/7 Friends
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=316&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Family Guy - 24/7 Family Guy
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=317&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 In The Night Garden - 24/7 In The Night Garden
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=318&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 The Inbetweeners - 24/7 The Inbetweeners
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=319&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Ben and Holly - 24/7 Ben and Holly
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=320&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Blaze - 24/7 Blaze
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=321&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 PawPatrol - 24/7 PawPatrol
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=322&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Only Fools And Horses - 24/7 Only Fools And Horses
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=323&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Bobs Burgers - 24/7 Bobs Burgers
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=324&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Doc Mcstuffins - 24/7 Doc Mcstuffins
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=325&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Disney Movies - 24/7 Disney Movies
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=326&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Sports Fixtures Weekly
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=327&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,PPV 1 - PPV 1
+#EXTVLCOPT:network-caching=1000
+http://163.172.15.141:9732/live?channelId=328&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,PPV 2 - PPV 2
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=329&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,PPV 3 - PPV 3
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=330&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,PPV 4 - PPV 4
+#EXTVLCOPT:network-caching=1000
+http://62.210.99.158:80/live?channelId=331&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,PPV 5 - PPV 5
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=332&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV plus 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=333&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV2 plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=334&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV3 plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=335&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITV4 plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=336&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ITVBe plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=337&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Channel 4 plus 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=338&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,E4 plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=339&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,More4 plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=340&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Channel 5 plus 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=341&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,5 USA plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=342&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ComedyCent plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=343&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Discovery plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=344&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,FOX plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=345&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,HISTORY plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=346&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,ID plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=347&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,MTV plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=348&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,National Geographic plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=349&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,QUEST plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=350&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,TLC plus1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=351&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CELTIC TV (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=352&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CELTIC 1 (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=353&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CELTIC 2 (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=354&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,CELTIC 3 (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=355&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,RANGERS TV (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=356&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,RANGERS 1 (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=357&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,RANGERS 2 (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=358&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,RANGERS 3 (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=359&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,WILLIAM HILL TV
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=360&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Aberdeen TV (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=361&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Dundee TV (Matches only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=362&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Hearts TV (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=363&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Hibs TV (Matches Only)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=364&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,UFC PREMS
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=365&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,UFC FIGHT PASS
+#EXTVLCOPT:network-caching=1000
+http://62.210.93.43:80/live?channelId=366&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 1 (France)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=367&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 1 (NL)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=368&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 1 (Poland)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=369&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 1 (uk)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=370&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 1 (Taiwan)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=371&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 2 (France)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=372&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 2 (NL)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=373&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 2 (Poland)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=374&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 2 (uk)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=375&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 2 (Taiwan)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=376&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 3 (France)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=377&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 3 (NL)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=378&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 3 (Poland)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=379&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven 4 (Poland)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=380&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,Eleven Plus (Taiwan)
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=381&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SKYNET 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=382&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SKYNET 2
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=383&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SKYNET 3
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=384&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SKYNET 4
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=385&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SKYNET 5
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=386&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,SKYNET 6
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.98:80/live?channelId=387&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 American Dad
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=388&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Benidorm
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=389&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,24/7 Big Bang
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=390&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BEin Football 1
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=391&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BEin Football 2
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=392&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,BEin Football 3
+#EXTVLCOPT:network-caching=1000
+http://163.172.105.25:80/live?channelId=393&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 1
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=394&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 2
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=395&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 3
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=396&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 4
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=397&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 5
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=398&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 6
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=399&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 7
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=400&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 8
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=401&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 9
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=402&deviceMac=00:1A:79:3C:88:8A&uid=4398
+#EXTINF:0,NBC GOLD 10
+#EXTVLCOPT:network-caching=1000
+http://62.210.114.105:80/live?channelId=403&deviceMac=00:1A:79:3C:88:8A&uid=4398
+
+
+
+
+
+
+
+
 #EXTINF:-1,⬤ ◍ ◎ USA ◎ ◍ ⬤
 #EXTINF:-1,USA:  ESPN HD
 http://81.30.144.107:8000/live/alanca/alanca/1624.ts
