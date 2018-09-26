@@ -112,7 +112,30 @@ http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/9797.ts
 
 
 
-
+#EXTINF:-1,HBO CZE
+http://145.236.65.127:9002/play/hbocz
+#EXTINF:-1,Minimax / C8 Hu
+http://145.236.65.127:9002/play/minimac-c8
+#EXTINF:-1,FilmBox Plus INT
+http://145.236.65.127:9002/play/filmboxplus
+#EXTINF:-1,Film+
+http://145.236.65.127:9002/play/filmplusz
+#EXTINF:-1,Filmbox Family
+http://145.236.65.127:9002/play/filmboxfamily
+#EXTINF:-1,Spiler TV
+http://145.236.65.127:9002/play/spilertvsat
+#EXTINF:-1,Sport2
+http://145.236.65.127:9002/play/sport2sat2
+#EXTINF:-1,TV2
+http://145.236.65.127:9002/play/tv2sat2
+#EXTINF:-1,Duna World
+http://145.236.65.127:9002/play/dunaworld
+#EXTINF:-1,Echo TV
+http://145.236.65.127:9002/play/echotv
+#EXTINF:-1,RTL Klub
+http://145.236.65.127:9002/play/rtlklubsat2
+#EXTINF:-1,ATV
+http://145.236.65.127:9002/play/atv
 
 
 
